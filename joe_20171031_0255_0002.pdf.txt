@@ -1,0 +1,7056 @@
+ 
+
+N°
+
+COMMUNES)
+
+NOM DU SITE
+
+DEPARTEMENT
+
+LIMITES GEOGRAPHIQUES
+
+MINISTÈRE DE REFERENCE
+
+ZONE AERONAUTIQUE DANS
+LAQUELLE SE SITUE LE SITE
+
+ 
+
+AMBERIEU-EN-
+BUGEY
+
+AMBERIEU
+
+O1 - Ain
+
+polygone délimité par les points :
+: 005° 20' 36" E / 45° 58° 23”
+: 005° 20’ 44" E / 45° 58° 29°
+: 005° 20° 23" E / 45° 59° 42°
+: 005° 19 45" E / 45° 59° 55"
+: 005° 19° 39° E / 45° 59° 21”
+: 005° 19 01*E / 45° 58 52"
+
+A1MOOmXr
+ZZZZZZ
+
+Ministère des armées
+
+ 
+
+BOURG-EN-BRESSE
+
+BOURG-EN-BRESSE
+
+01 - Ain
+
+polygone délimité par les points :
+
+A: 005° 14° 49,43" E 7 46° 11° 41,58"
+B: 005° 14 36,64" E7 46° 11° 39,71”
+C: 005° 14 34,21" E / 46° 11 48°" N
+
+N
+N
+
+D: 005° 14° 44,83" E / 46° 11 49,04 N°
+
+E: 005° 14° 47,34" E7 46° 11° 48,45"
+
+N
+
+Ministère de la justice
+
+ 
+
+SAINT-VULBAS
+
+BUGEY
+
+O1 - Ain
+
+polygone délimité par les points :
+: 005° 16° O7"E / 45° 48° 26"
+: 005° 16 32" E / 45° 48 13°
+: 005° 16° 18"E / 45° 47° 35°
+: 005° 15 43"E / 45° 47 12
+: 005° 15 13"E / 45° 47 45°
+
+MOUOUxr
+ZZZZZ
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 9
+
+ 
+
+ 
+
+ 
+
+LAON
+
+ 
+
+LAON
+
+ 
+
+02 - Aisne
+
+ 
+
+polygone délimité par les points :
+
+OOUxX
+
+: 003° 38° 12,55" E/ 49° 34 52,46°
+: 003° 38° 12,45" E7/ 49° 34 58,01”
+: 003° 38° 22,36" E / 49° 34 58,12"
+: 003° 38 22,51" E / 49° 34 52,55"
+
+ZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+YZEURE
+
+MOULINS
+
+03 - Allier
+
+polygone délimité par les points :
+À: 003° 21 22°" E / 46° 32° 25" N
+B : 003° 21 34° E /46° 3214" N
+C: 003° 21 07" E / 46° 32° 09" N
+D : 003° 21 06"E /46° 32° 16"N
+
+Ministère de la justice
+
+ 
+
+REVEST DU BION
+
+REVEST DU BION
+
+04 — Alpes de Haute
+Provence
+
+polygone délimité par les points :
+: 005° 31° 57° E / 44° O4 15" N
+: 005° 32° 07° E / 44° C4 10" N
+: 005° 32° 12" E / 44° 04’ 20" N
+: 005° 32’ O5" E / 44° 0423" N
+
+0O0OuU>r
+
+Ministère des armées
+
+LF-R 11
+
+ 
+
+GRASSE
+
+GRASSE
+
+06 — Alpes maritimes
+
+0OUx
+
+polygone délimité par les points :
+
+: 006° 54° 10,50" E / 43° 40° 25,66"
+: 006° 54° 07,75" E/ 43° 40 31,76"
+: 006° 54 19,72" E / 43° 40 34,53
+: 006° 54° 22,35" E / 43° 40 28,75"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+PEILLE
+
+NICE MONT AGEL
+
+06 - Alpes maritimes
+
+polygone délimité par les points :
+: 007° 25" 45" E / 43° 46 38" N
+: 007° 25" 47" E / 43° 46 26" N
+: 007° 25 01" E / 43° 45 56" N
+: 007° 24 43"E / 43° 46 13" N
+: 007° 25" 08" E / 43° 46 A1" N
+:007° 2527" E/43° 46 48" N
+
+1MOOWXr
+
+Ministère des armées
+
+LF-R 83
+
+ 
+
+CRUAS, MEYSSE
+
+CRUAS - MEYSSE
+
+07 - Ardèche
+
+polygone délimité par les points :
+À: 004° 45° 20° E / 44° 38 24" N
+B : 004° 45 51° E / 44° 38 18° N
+C : 004° 45° O9" E / 44° 37 33° N
+D: 004° 44 33" E /44° 37 40° N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 12
+
+ 
+
+ 
+
+10
+
+ 
+
+CHOOZ
+
+ 
+
+CHOOZ
+
+ 
+
+08 - Ardennes
+
+ 
+
+polygone délimité par les points :
+: 004° 47° 46° E / 50° 05' 38"
+: 004° 48 14° E / 50° 05° 11"
+: 004° 47° 49" E / 50° 05’ 03"
+: 004° 47° 24" E / 50° 05’ 04"
+: 004° 47 O4" E / 50° 05° 11°
+: 004° 48 54" E / 50° 05 30"
+
+nMmOOmxr
+ZZZZZZ
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-P 38
+
+ 
+
+ 
+ 
+
+11
+
+BRIENNE LE
+CHATEAU, BRIENNE
+LA VIEILLE
+
+BRIENNE LE
+CHATEAU
+
+10 - Aube
+
+polygone délimité par les points :
+À: 004° 34 09° E / 48° 25 35° N
+B : 004° 34 56"E /48° 24 15"N
+C: 004° 35 08°E /48° 22 55° N
+D: 004° 33° 59” E / 48° 22 50° N
+E:004°33 27°E /48°23 50°N
+F:004° 32 53"E /48° 24 40°" N
+
+Ministère des armées
+
+LF-R 15 A
+
+ 
+
+12
+
+CHATRES
+
+CHATRES
+
+10 - Aube
+
+0O0u>r
+
+polygone délimité par les points :
+
+: 003° 49" 03,7* E / 48° 29° 59,2" N
+: 003° 48° 22,1° E / 48° 30° 01,5" N
+: 003° 48’ 23,5" E / 48° 30° 12,1" N
+: 003° 49° 33,2" E / 48° 30’ 06,6" N
+
+Ministère des armées
+
+ 
+
+13
+
+NOGENT - SUR -
+SEINE
+
+NOGENT - SUR -
+SEINE
+
+10 - Aube
+
+polygone délimité par les points :
+À: 003° 30 52°" E / 48° 31 28° N
+B : 003° 31 41" E / 48° 31 O7" N
+C:003° 3121" E / 48° 30° 42" N
+D : 003° 30° 32" E / 48° 30° 46" N
+E : 003° 30° 33° E / 48° 31 18" N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 31
+
+ 
+
+14
+
+VILLE-SOUS-LA-
+FERTE
+
+CLAIRVAUX
+
+10 - Aube
+
+polygone délimité par les points :
+À: 004° 47 26° E / 48° 09' O2" N
+B : 004° 47 32° E / 48° 08 47° N
+C : 004° 46° 51" E / 48° 08’ 38" N
+D : 004° 46" 46" E / 48° 08° 46" N
+
+Ministère de la justice
+
+ 
+
+15
+
+VILLENAUXE-LA-
+GRANDE
+
+VILLENAUXE
+
+10 - Aube
+
+A
+B:
+C:
+D:
+
+003° 34° 41,06" E / 48° 36° 06,54"
+
+polygone délimité par les points :
+003° 34 28,74" E / 48° 36 07,39"
+003° 34° 27,66" E / 48° 36° 14,80"
+003° 34° 39,82" E / 48° 36 15,56"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+16
+
+ 
+
+MALVEZI
+
+ 
+
+MALVEZI
+
+ 
+
+11- Aude
+
+ 
+
+IZONnMOO
+
+polygone délimité par les points :
+A:002°58 32*"E /43° 13 OS"N
+B : 002° 58° 39° E / 43° 12° 50° N
+: 002° 58° 53" E / 43° 12 41°" N
+: 002° 58’ 58" E / 43° 12° 28" N
+: 002° 5911" E/43°12 25"N
+: 002° 58 26"E /43° 12 27°N
+: 002° 59 17"E/43° 12 45" N
+: 002° 59° 16" E /43° 12’ 57" N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+ 
+
+ 
+ 
+
+17
+
+VILLEMAGNE
+
+VILLEMAGNE-LES
+CAMMAZES - LA
+REGINE
+
+11- Aude
+
+polygone délimité par les points :
+: 002° 05’ 45° E / 43° 23 50"
+: 002° C6’ 26° E / 43° 23° 40"
+: 002° 06’ 10” E / 43° 23° 00”
+: 002° O5’ 40" E / 43° 22° 50°"
+: 002° 05’ 25° E / 43° 23° 15"
+
+MmOOuxr
+ZZZZZ
+
+Ministère des armées
+
+LE-P 44
+LE-R 1 AIB
+
+ 
+
+18
+
+VILLEPINTE
+
+VILLEPINTE LA
+LAUZETTE
+
+11- Aude
+
+polygone délimité par les points :
+A: 002° 07 00°E/43° 17 O7" N
+B: 002° 07 42°E/43°17 O7°N
+C: 002° 07 42°" E / 43° 16 30° N
+D : 002° 06’ 45" E / 43° 16 50° N
+
+Ministère des armées
+
+LF-P 45
+
+ 
+
+19
+
+AIX-EN-PROVENCE
+
+AIX-LUYNES
+
+13 - Bouches-du-
+
+Rhône
+
+polygone délimité par les points :
+A: 005°23 55" E / 43° 28’ 59" N
+B : 005° 24° 03" E/43°28 53" N
+C:005° 23 56" E / 43° 28 46" N
+D: 005° 23° 44"E /43°28 52" N
+
+Ministère de la justice
+
+ 
+
+20
+
+ARLES
+
+ARLES
+
+13 - Bouches-du-
+
+Rhône
+
+polygone délimité par les points :
+À :004°38 0O4°E/ 43° 42'30°N
+B : 004° 38° 16° E / 43° 42° 29° N
+C:004° 3815" E / 43° 4220" N
+D : 004° 38° 04"E /43° 42° 20° N
+
+Ministère de la justice
+
+ 
+
+ 
+
+21
+
+ 
+
+ARLES
+
+ 
+
+ISTRES LES
+CHANOINES
+
+ 
+
+13 - Bouches-du-
+
+Rhône
+
+ 
+
+polygone délimité par les points :
+: 004° 44 24° E / 43° 36° 46"
+: 004° 44° 49° E / 43° 36° 08”
+: 004° 44 16" E / 43° 35° 41”
+: 004° 43 30" E / 43° 35° 55"
+: 004° 43 14° E / 43° 36° 26"
+
+MUOUxr
+ZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 41
+R108 À
+et
+S CTRISTRES
+
+ 
+
+ 
+ 
+
+22
+
+FONTVIEILLE
+
+FONTVIEILLE
+
+13 — Bouches-du-
+Rhône
+
+polygone délimité par les points :
+: 004° 43 24° E / 43° 43 46"
+: 004° 43 15° E / 43° 43 29"
+: 004° 43 58” E / 43° 43° 25"
+: 004° 44 23" E / 43° 43° 27°
+: 004° 44 34° E / 43° 43° 34"
+: 004° 44 31°" E / 43° 43 44°
+: 004° 4354" E/ 43° 43 48”
+
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+23
+
+ISTRES
+
+MIRAMAS
+
+13 - Bouches-du-
+Rhône
+
+olygone délimité par les points :
+: 004° 58° 04" E / 43° 34 50° N
+: 004° 59° 23° E / 43° 34° 50° N
+: 004° 59° 23" E / 43° 34 41°" N
+: 004° 59° 04" E / 43° 34 41° N
+
+0Owu>»S [(QnMmOoOwr
+
+Ministère des armées
+
+LF-ZIT 17
+et
+R77B
+
+ 
+
+24
+
+ISTRES, FOS-SUR-
+MER, SAINT-
+MARTIN-DE-CRAU
+
+ISTRES ET
+LE PATY
+
+13 - Bouches-du-
+Rhône
+
+polygone incluant les 2 sites et
+délimité par les points :
+: 004° 57° 24° E / 43° 34° 49°
+: 004° 58° O0" E / 43° 30° 00"
+: 004° 57 21" E / 43° 28’ 51°
+: 004° 55° 39" E / 43° 28’ 34°
+: 004° 53" 03" E / 43° 31 53"
+: 004° 52 55° E / 43° 33 34°
+: 004° 56° 12" E / 43° 34 50°
+
+QTMOOux
+ZZZZZZZ
+
+Ministère des armées
+
+LF-P 41
+
+ 
+
+ 
+
+25
+
+ 
+
+MARSEILLE
+
+ 
+
+MARSEILLE
+
+ 
+
+13 - Bouches-du-
+Rhône
+
+ 
+
+polygone délimité par les points :
+: 005° 24° 45° E / 43° 14° 06"
+: 005° 24° 51° E / 43° 14° O7"
+: 005° 25° 03" E / 43° 1351"
+: 005° 24 53" E / 43° 1347"
+: 005° 24 45" E / 45° 14 01”
+
+MmOOwuxr
+ZZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ZRT Marseille
+
+ 
+
+ 
+ 
+
+26
+
+MARSEILLE
+
+HIA LAVERAN
+
+13 - Bouches-du-
+
+Rhône
+
+polygone délimité par les points :
+À: 005° 24° 56,8" E / 43° 19° 38,5" N
+B:005°24 52,7" E / 43° 19 39,3" N
+C:005° 24 52° E/43° 19 38,7" N
+D: 005° 24 51,3" E / 43° 19 35° N
+E : 005° 24’ 49,5" E / 43° 19 37°N
+F : 005° 24 49,5" E / 43° 19° 34,3°N
+G:005° 24 52" E /43° 19 31,6" N
+H:005° 24 53" E/43°19 326" N
+1: 005° 24 56,2" E / 43° 19° 32,6° N
+J: 005° 24° 58,3" E / 43° 19° 35,8* N
+K: 005° 24 58" E/43° 19 38,4" N
+
+Ministère des armées
+
+ 
+
+27
+
+MARSEILLE
+
+CEPIA
+
+13 - Bouches-du-
+
+Rhône
+
+polygone délimité par les points :
+: 005° 23° 31,7° E / 43° 20° 12,1"
+: 005° 23° 31,9" E / 43° 20° 09,4"
+: 005° 23° 28,8" E / 43° 20’ 04,2"
+: 005° 23° 33,6" E / 43° 20’ 03,5"
+: 005° 23 34,0" E / 43° 20° 04,8"
+: 005° 23 38,4" E / 43° 20° 05,1"
+: 005° 23° 38,3" E / 43° 20 12,07
+
+QTMmOOwmxz
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+28
+
+ 
+
+MIRAMAS, ISTRES
+
+ 
+
+MIRAMAS
+
+ 
+
+13 - Bouches-du-
+
+Rhône
+
+ 
+
+polygone délimité par les points :
+: 004° 58 12" E / 43° 35 11" N
+: 004° 57 34" E / 43° 35 44" N
+: 004° 58 02" E / 43° 36° 04" N
+: 004° 58 27" E / 43° 36° 08" N
+: 004° 58 17" E /43°35 42" N
+
+MOUOurz
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-ZIT 17
+
+ 
+
+ 
+ 
+
+29
+
+SAINT-PAUL-LES-
+DURANCE
+
+CADARACHE
+
+13 - Bouches-du-
+Rhône
+
+polygone délimité par les points :
+: 005° 4412" E / 43° 4120"
+: 005° 4412" E / 43° 4157"
+: 005° 45'51* E / 43° 42'34"
+: 005° 46' 45" E / 43° 4253"
+: 005° 47" O4" E / 43° 4223"
+: 005° 46" 50" E / 43° 41° 59"
+: C05° 4620" E / 43° 41" 29°
+: 005° 4727 E / 43° 4027"
+: 005° 46’ 52" E / 43° 40° 00° N
+
+—LONMOUOuxr
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-P 10
+
+R71
+
+ 
+
+30
+
+TARASCON
+
+TARASCON
+
+13 — Bouches-du-
+Rhône
+
+0O0UXx
+
+polygone délimité par les points :
+
+004° 39° 30,12" E / 43° 47 25,07"
+004° 39° 19,88" E / 43° 47° 25,40"
+004° 39° 20,68" E / 43° 47 35,34°
+004° 39° 30,65" E / 43° 47 35,12°
+
+ZZZ2Z
+
+Ministère de la justice
+
+ 
+
+31
+
+CHATEAUBERNARD
+
+COGNAC
+
+16 - Charente
+
+polygone délimité par les points :
+: 000° 19° 39° © / 45° 40° 05”
+: 000° 19° 05” G / 45° 40 11°
+: 000° 18° 20° O / 45° 40 14°
+: 000° 17 53° O / 45° 39 47°
+: 000° 18 14° O / 45° 39 29°
+: 000° 18° 08" O / 45° 39° 20"
+: 000° 18° 07° O / 45° 38° 49°
+: 000° 18 35" O / 45° 38 49"
+: 000° 19° 08" © / 45° 38’ 40°
+: 000° 19° 43" © / 45° 38 47"
+: 000° 19° 32° © / 45° 39 19°
+: 000° 19° 33" © / 45° 39° 55"
+
+ZZZZZzzZZzzZzZz
+
+Ministère des armées
+
+CTR Cognac
+
+ 
+
+ 
+
+32
+
+ 
+
+SAINT MARTIN DE
+RE
+
+ 
+
+SAINT MARTIN DE
+RE
+
+ 
+
+17 - Charente-
+Maritime
+
+ 
+
+olygone délimité par les points :
+:001° 21 23" O / 46° 12° 20°N
+: 001° 21’ 40" © / 46° 12 OO'N
+: 001° 21 44” 0 / 46° 12 O3 N
+: 001° 21 44” 0 / 46° 12 10°N
+: 001° 21 34” O / 46° 12 20° N
+
+MmOOw»S [rxec—-TOnMmOOmxr
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+33
+
+AVORD, FARGES-
+EN-SEPTAINE,
+SAVIGNY-EN-
+SEPTAINE
+
+AVORD
+
+18 - Cher
+
+polygone délimité par les points :
+: 002° 39° O7" E / 47° 02° 24"
+: 002° 40° O9" E / 47° 03' 51"
+: 002° 39° 51° E / 47° 04 17"
+: 002° 36’ O0" E / 47° 04 17"
+: 002° 34 56° E / 47° 03° 48"
+: 002° 35 02°" E / 47° 03 O7"
+: 002° 36 10" E/47° 0231
+: 002° 36° 51" E / 47° 02° 18"
+: C02° 37 59" E/ 47° 02 11°N
+
+—LONnMmOOwuxz
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-P 40
+
+ 
+
+34
+
+BELLEVILLE - SUR -
+LOIRE, SURY-PRES-
+LERE
+
+BELLEVILLE - SUR -
+LOIRE
+
+18 - Cher
+
+polygone délimité par les points :
+À: 002° 52 24° E / 47° 31° 05”
+: 002° 52° 48° E / 47° 30° 46"
+: 002° 53 07" E / 47° 30° 18"
+: 002° 52° 49" E / 47° 30° 09"
+: 002° 51 52° E / 47° 30° 20°
+
+MOUOU
+ZZZZZ
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 20
+
+ 
+
+35
+
+BOURGES
+
+BOURGES
+
+18 - Cher
+
+polygone délimité par les points :
+À : 002° 25" 49° E / 47° 03° 42°N
+B : 002° 26 20° E / 47° 04’ 30" N
+C:002° 27 58°E /47° 04 22" N
+D:002°27 53"E /47° O4'O7'N
+E : 002° 26 13" E /47° 03 30" N
+
+Ministère des armées
+
+R9
+
+ 
+
+36
+
+UZERCHE
+
+UZERCHE
+
+19 - Corrèze
+
+moomx
+
+polygone délimité par les points :
+
+: 001° 35° 33,80" E / 45° 26 10,09"
+: 001° 35° 27,23" E/ 45° 26 14,64"
+:001° 35° 31,21" E / 45° 26 20,12"
+: 001° 35° 34,88" E / 45° 26 21,23"
+: 001° 35° 42,18" E / 45° 26 16,11
+
+ZZZZZ
+
+Ministère de la justice
+
+ 
+
+37
+
+BONIFACIO
+
+BONIFACIO
+
+20 A - Corse du Sud
+
+polygone délimité par les points :
+À: 009° 11° 36°E / 41° 23'30°N
+B : 009° 11 48" E /41° 23 35" N
+C : 009° 11° 50" E / 41° 23° 29° N
+D : 009° 11°37"E/41° 23 28"N
+
+Ministère des armées
+
+ 
+
+ 
+
+38
+
+ 
+
+BASTIA,
+PATRIMONIO
+
+ 
+
+SIERRA DI PIGNO
+
+ 
+
+20 B — Haute-Corse
+
+ 
+
+polygone délimité par les points :
+: 009° 24° 00” E / 42° 41 36" N
+: 009° 24° 01° E / 42° 41 42° N
+: 009° 23 55° E / 42° 41 44° N
+: 009° 2353" E / 42° 41 38° N
+
+0OuUx>
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+39
+
+BORGO
+
+BORGO
+
+20 B - Haute-Corse
+
+polygone délimité par les points :
+À: 009° 26 39° E / 42° 34 42° N
+B : 009° 26 49° E / 42° 34' 44" N
+C : 009° 26 51"E /42° 34 37° N
+D : 009° 26° 40"E /42° 34 35° N
+
+Ministère de la justice
+
+ 
+
+40
+
+VENTISERI
+
+VENTISERI -
+SOLENZARA
+
+20 B - Haute-Corse
+
+polygone délimité par les points :
+: 009° 24 22° E / 41° 56° 31"
+: 009° 23" 35° E / 41° 56° 23"
+: 009° 23° 17"E / 41° 54° 42"
+: 009° 23 56" E / 41° 54° 26"
+: 009° 24 53° E / 41° 54 22°
+: 009° 25 07"E / 41° 56 20"
+
+ZZZZZZ
+
+Ministère des armées
+
+R 65
+
+ 
+
+41
+
+SALIVES
+
+VALDUC
+
+21 - Côte-d'Or
+
+S|1nMmOoOmxr
+
+olygone délimité par les points :
+: 004° 5231" E / 47° 35' 52"
+: 004° 5318" E / 47° 3531"
+: 004° 5314" E / 47° 35' O2"
+: 004° 52' 46° E / 47° 34' 50"
+: 004° 52' 45° E / 47° 34' 27"
+: 004° 51'04" E / 47° 33'58"
+
+1MOOWr
+ZZZZzZzZz
+
+Ministère des armées
+
+LF-P 37
+
+ 
+
+42
+
+DOMME
+
+DOMME
+
+24 - Dordogne
+
+polygone délimité par les points :
+À: 001° 14 O8"E / 44° 47 19°N
+B:001° 14 30"E /44° 47 17" N
+C:001° 14 27"E / 44° 47 O4" N
+D:001° 14 05"E /44° 47 C6" N
+
+Ministère des armées
+
+ 
+
+43
+
+BEAUMONT-LES-
+VALENCE
+
+BEAUMONT-LES-
+VALENCE
+
+26 - Drôme
+
+polygone délimité par les points :
+: 004° 55" 53° E / 44° 54 04" N
+: 004° 56° 07° E / 44° 53 34" N
+: 004° 55’ 45" E / 44° 53° 29° N
+: 004° 55’ 20" E / 44° 5351" N
+
+0Ou>r
+
+Ministère des armées
+
+ 
+
+ 
+
+44
+
+ 
+
+PIERRELATE, SAINT-
+
+PAUL-TROIS-
+CHATEAUX,
+BOLENE
+
+ 
+
+PIERRELATE -
+TRICASTIN
+
+ 
+
+26 - Drôme
+
+ 
+
+polygone délimité par les points :
+À : 004° 42 30° E / 44° 21 20° N
+B : 004° 44’ O0" E / 44° 21° 20° N
+C : 004° 44 17" E / 44° 19° O0" N
+D : 004° 42’ 30" E / 44° 19' OO" N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-P 19
+
+ 
+
+ 
+ 
+
+45
+
+PORTES-LES-
+VALENCE
+
+PORTES-LES-
+VALENCE
+
+26 - Drôme
+
+ONnMOOmx»
+
+polygone délimité par les points :
+: 004° 52° 11,9° E / 44° 52° 29,4"
+: 004° 52° 06,1" E / 44° 52° 31,1"
+: 004° 52 08,5" E / 44° 52 36,6"
+: 004° 52° 05,4" E / 44° 52° 37,3"
+: 004° 52° 07,4" E / 44° 52° 42,0”
+: 004° 52 22,6" E / 44° 52° 39,9"
+: 004° 52° 17,2" E / 44° 52 29,9
+
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+46
+
+ROMANS-SUR-ISERE
+
+ROMANS-SUR-ISERE
+
+26 - Drôme
+
+polygone délimité par les points :
+: 005° 05’ 51° E / 45° 03 12"
+: 005° 06’ 03° E / 45° 03 14"
+: 005° 06’ 08” E / 45° 03’ 04”
+: 005° 05’ 59” E / 45° 03 00”
+: 005° 05’ 53° E / 45° 02’ 54"
+: 005° 05 48" E / 45° 02 52"
+: 005° 05’ 42" E / 45° 02 59"
+: 005° 05’ 38" E / 45° 03: 07"
+
+TLONIMOOwz
+ZZZZZZZZ
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+ 
+
+47
+
+ 
+
+VALENCE
+
+ 
+
+VALENCE
+
+ 
+
+26 - Drôme
+
+ 
+
+polygone délimité par les points :
+A:004°55 44° E / 44° 54° 48" N
+B: 004° 55" SS°E / 44° 54 45" N
+C:004° 55 49"E / 44° 54 34" N
+D:004°55'36"E /44° Sd 37° N
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+48
+
+HUEST, GAUCIEL,
+MISEREY, LE-VIEIL-
+EVREUX, FAUVILLE,
+SASSEY
+
+EVREUX
+
+27 - Eure
+
+polygones délimités par les points :
+
+TLONMOOUXx>
+
+zone 1: BA
+
+:001° 13" 16" E / 49° 02° 53"
+: 001° 11° 28° E / 49° 01° 20°
+: 001° 11° 29"E / 49° O0" 52°
+: 001° 14 22" E / 49° O0’ 47"
+: 001° 14 31° E / 49° 01° 42°
+:001° 14 11" E / 49° OT 53"
+: 001° 14° 24" E / 49° 02’ 06”
+: 001° 13° 57"E / 49° 02’ 43
+
+zone 2 : DM
+
+ZZZZZZZZ
+
+À: 001° 12° 14,9°E / 48° 03" OS,6" N
+B:001°12 17"E/49°02 SS°N
+C:001°12°27"E/49° 02 44" N
+D: 001° 12° 40"E / 49° 02° 40" N
+E:001° 12" 48"E / 49° 02 49°N
+
+F: 001° 12 39,3" E / 48° 02° 57,9" N
+
+G : 001° 12° 18.9" E / 49° 03 04,5" N
+
+Ministère des armées
+
+CTR EVREUX
+
+ 
+
+49
+
+VAL-DE-REUIL
+
+VAL-DE-REUIL
+
+27 - Eure
+
+polygone délimité par les points :
+A:001° 13° 27,53" E / 49° 16° 57,82"
+B:001° 13° 14,59° E / 49° 16° 53,49"
+
+C:001° 13° 05,59" E / 49° 17° 05,26"
+D:001° 13° 17,25" E / 49° 17° 10,80"
+
+Ministère de la justice
+
+ 
+
+ 
+
+50
+
+ 
+
+CHATEAUDUN
+
+ 
+
+CHATEAUDUN
+
+ 
+
+28 — Eure-et-Loir
+
+ 
+
+polygone délimité par les points :
+
+TA-LONMOUOUXz
+
+:001° 22" 58° E / 48° 02° 35"
+:001° 23 41" E / 48° 03' 20"
+: 001° 23 42" E / 48° 03° 26"
+: 001° 23" 38" E / 48° 03° 33"
+: 001° 21 57° E / 48° C4’ 04"
+: 001° 21 44" E / 48° 03 48"
+: 001° 21 28° E / 48° 03 38°
+: 001° 21° 27"E / 48° 03° 33
+: 001° 21 36° E / 48° 03 16"
+:001° 21 51° E / 48° 03° 04"
+: 001° 22° 09" E / 48° 02° 54°
+: 001° 22' 44" E / 48° 02’ 42"
+
+ZZZZZZzTZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR
+CHATEAUDUN
+
+ 
+
+ 
+ 
+
+51
+
+CHATEAUDUN
+
+CHATEAUDUN
+
+28 — Eure-et-Loir
+
+0OUx
+
+polygone délimité par les points :
+
+001° 21 36,45" E / 48° O4 09,08"
+001° 21 33,71" E/ 48° O4’ 00,46"
+001° 21 21,54" E / 48° 04 02,99"
+001° 21 27,52" E / 48° 04 11,84"
+
+ZZZ2Z
+
+Ministère de la justice
+
+CTR
+CHATEAUDUN
+
+ 
+
+52
+
+BREST
+
+BREST- RADE ET
+PORT
+
+29 - Finistère
+
+polygone délimité par les points :
+
+GDOTOZETrRCc-TONnMmOOwx»
+
+: 004° 29° 02" © / 48° 21
+: 004° 31° 11" 0 / 48° 21
+: 004° 31° 45° © / 48° 21° 48°
+: 004° 32 08" O / 48° 21°
+: 004° 3214" 0 /48°22 17"
+: 004° 32° 08" O / 48° 22° 21"
+: 004° 31° 17° O / 48° 22° 36"
+: 004° 30° 54° © / 48° 22° 35°
+: 004° 30° 13° © / 48° 22° 56"
+: 004° 30' 04” O / 48° 23 10"
+: 004° 30° 38" O / 48° 23' 40°
+: 004° 30° 40° O / 48° 23° 50°
+: 004° 30° 05” © / 48° 23 55"
+: 004° 28° 34" © / 48° 23 48”
+: 004° 28 25° O / 48° 23 30°
+: 004° 29° 33” © / 48° 23° 10°
+: 004° 28 39° O / 48° 23 04”
+: 004° 28 13" 0 /48°22 55
+: 004° 29° 24" © / 48° 22 44°
+
+57
+31”
+
+58°
+
+ZZZZZZzZZzZZZZZzzZZzZzZzZzZz
+
+Ministère des armées
+
+LF-P 112
+
+ 
+
+ 
+
+53
+
+ 
+
+BREST
+
+ 
+
+PORTZIC
+
+ 
+
+29 - Finistère
+
+ 
+
+polygone délimité par les points :
+
+TONMOOGwXr>
+
+: 004° 32 01" © / 48° 21°
+: 004° 32° 16" © / 48° 21
+: 004° 32 30" © / 48° 21°
+: 004° 32° 43" O / 48° 21'
+: 004° 32 38" © / 48° 21
+: 004° 32° 28" O / 48° 21'
+: 004° 32° 12" O / 48° 21°
+: 004° 31° 54" O / 48° 21°
+
+27
+
+25°
+27
+36"
+43°
+49"
+46"
+36"
+
+ZZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 112
+
+ 
+
+ 
+ 
+
+54
+
+CROZON
+
+GUENVENEZ
+
+29 - Finistère
+
+polygone délimité par les points :
+: 004° 30° 48" © / 48° 16° 15°
+: 004° 30° 18” © / 48° 16° 16°
+: 004° 30° 02" © / 48° 15° 23"
+: 004° 31° 10" © / 48° 15 08”
+: 004° 31 45" 0 /48° 15 19
+: 004° 32° 06" O / 48° 15° 42"
+: 004° 32° 01° O / 48° 15° 52"
+
+ONnMOOmXr>
+ZZZZZZZ
+
+Ministère des armées
+
+LF-P 112
+
+ 
+
+55
+
+CROZON
+
+ILE LONGUE
+
+29 - Finistère
+
+polygone délimité par les points :
+: 004° 30° 49” O / 48° 17 31”
+: 004° 29° 39” O / 48° 18 11”
+: 004° 29° 25” O / 48° 18 32”
+: 004° 29 38” O / 48° 18 51”
+: 004° 30° 39” O / 48° 18: 48°
+: 004° 31° 31° O / 48° 17° 56”
+
+1MmOO0mX
+ZZZZZZ
+
+Ministère des armées
+
+LF-P 112
+
+ 
+
+56
+
+GUIPAVAS
+
+SAINT NICOLAS
+
+29 — Finistère
+
+polygone délimité par les points :
+: 004° 22° 49° © / 48° 24 3S° N
+: 004° 22° 15" © / 48° 24° 26° N
+: 004° 223 00" © / 48° 24 OS" N
+: 004° 23° 08" © / 48° 34 OS" N
+: 004° 22 34° © / 48° 24 OT N
+
+mMmOOwuxz
+
+Ministère des armées
+
+CTR BRETAGNE
+
+ 
+
+57
+
+LANVEOC
+
+LANVEOC-POULMIC
+
+29 - Finistère
+
+polygone délimité par les points :
+: 004° 25’ 13° O / 48° 16° 46°
+: 004° 26° 09” O / 48° 17° 15°
+: 004° 27 26° O / 48° 17 15°
+: 004° 27 36” O / 48° 17 O0"
+: 004° 26° 37” O / 48° 16° 12”
+: 004° 25" 41° O / 48° 16° 27"
+
+1MmOO0mX
+ZZZZZZ
+
+Ministère des armées
+
+LF-P 112
+
+ 
+
+ 
+
+58
+
+ 
+
+LOPEREC
+
+ 
+
+LOPERE - LE
+CRANOU
+
+ 
+
+29 - Finistère
+
+ 
+
+polygone délimité par les points :
+: 004° 02’ 57" © / 48° 20 26" N
+: 004° 02’ 19" O/48° 20 31" N
+: 004° 02’ 10” O / 48° 20' O8” N
+: 004° 02 39" O / 48° 19 52° N
+: 004° 02’ 58” O / 48° 19 59° N
+: 004° 02’ 59° O / 48° 20° 11° N
+
+A1MOGmXx
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR BRETAGNE
+
+ 
+
+ 
+ 
+
+59
+
+LOPERHET
+
+BREST-LOPERHET
+
+29 - Finistère
+
+polygones délimités par les points :
+
+zone 1 :îlotB
+
+: 004° 19° 02" © / 48° 24 O8"
+: 004° 18° 38" O / 48° 24 12°
+: 004° 18 36" O / 48° 24 02"
+: 004° 18 56" O / 48° 23° 58"
+
+zone 2: îlot C
+
+: 004° 18° 09" O / 48° 24 37°
+: 004° 18° 05" O / 48° 24' 38
+: 004° 18 01" © / 48° 24 38"
+: 004° 18° 00" O / 48° 24° 34°
+- 004° 18 03" © /48° 24 327
+
+ZZZZ
+
+ZZZZZ
+
+Ministère des armées
+
+CTR BRETAGNE
+
+ 
+
+60
+
+PLOUNEOUR-TREZ,
+KERLOUAN
+
+KERLOUAN LE
+CLEGUER
+
+29 - Finistère
+
+1MOOw>»>S IMmOOwz> 0O0w>x>
+
+: 004° 21° 00
+: 004° 20° 38
+: 004° 20° 38
+: 004° 21° 00
+: 004° 21° 27
+: 004° 21° 27
+
+olygone délimité par les points :
+” © / 48° 38 30°
+* O / 48° 38 21”
+"© / 48° 38’ 08”
+” © / 48° 38’ 00”
+* O / 48° 38' 08”
+" O / 48° 38’ 21”
+
+N
+N
+N
+N
+N
+N
+
+Ministère des armées
+
+LF-P 42
+
+ 
+
+61
+
+PLOUNEVENTER,
+SAINT-DERRIEN,
+SAINT-SERVAIS,
+BODILIS, PLOUGAN
+
+LANDIVISIAU
+
+29 - Finistère
+
+polygone délimité par les points :
+
+TONMOOGUx>
+
+: 004° 10° 33" © / 48° 31 43°
+: 004° 09° 35° © / 48° 32° 00"
+: 004° O7 45" 0 / 48° 32 17"
+: 004° 07 12" O0 / 48° 37 12"
+: 004° 08° 00" O / 48° 31° 20°
+: 004° 08° 25° O / 48° 31° 10°
+: 004° 08° 59° O / 48° 31° 23°
+: 004° 10° 22" O / 48° 31° 19°
+
+ZZZZZZZZ
+
+Ministère des armées
+
+CTR LANDIVISIAU
+
+ 
+
+ 
+
+62
+
+ 
+
+ROSCANVEL
+
+ 
+
+ROSCANVEL
+
+ 
+
+29 - Finistère
+
+ 
+
+polygones délimités par les points :
+
+OO» 0UOowu>x
+
+zone n° 1
+
+: 004° 34 33" © / 48° 18 01”
+: 004° 33 47" O / 48° 18° 04”
+: 004° 33 38" © / 48° 17 44
+: 004° 34 18" O / 48° 17° 38°
+
+zone 2
+
+: 004° 33 30" O / 48° 18° 00"
+: 004° 33° 24" O / 48° 18° 00"
+: 004° 33 15" O / 48° 17° 46°
+: 004° 33° 19" O / 48° 17 47°
+
+ZZZZ
+
+ZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 112
+
+ 
+
+ 
+ 
+
+63
+
+BAGNOLS-SUR-
+CEZE
+
+MARCOULE
+
+30 - Gard
+
+polygones délimités par les points :
+: 04° 41 '54,3* E / 44° 09' 1,6"
+: 04 ° 42 27,8" E / 44° 08" 51,9"
+: 04° 42 42,5" E / 44° C8" 56,1"
+: C4° 42" 45,6" E / 44° 09' 11,2"
+: 04° 42 '52,8* E / 44° 09' 14,4"
+: 04° 43" 00,6" E / 44° 08’ 39,5"
+: C4° 42"35,7"E / 44° 08’ 08,1"
+: G4° 42" 00,5" E / 44° 08’ 07,7"
+: 04° 4137,9"E / 44° 08° 17,1"
+: 04° 41" 43,3" E } 44° 08" 36,7"
+: 04° 41" 55,4 °E / 44° 08 "40,8"
+
+Ac—-IOnmOoOuxz
+ZZ£ZZZZZZZ77z
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 16
+
+ 
+
+64
+
+NIMES
+
+NIMES
+
+30 - Gard
+
+polygones délimités par les points :
+À: 004° 23° 42,39" E / 43° 50 31,28" N
+B: 004° 23 40,34" E / 43° 50° 39,11" N
+C: 004° 23 46.41" E / 43° 50 39,94" N
+D: 004° 23 47,72" E/ 43° 50 31,67" N
+
+Ministère de la justice
+
+ 
+
+65
+
+MURET, SEYSSES
+
+TOULOUSE-
+SEYSSES
+
+31 - Haute-Garonne
+
+polygone délimité par les points :
+À: 001° 19 33°E / 43° 29° 28" N
+B: 001° 19 46" E / 43° 29° 23"
+C:001° 19 34" E / 43° 28’ 59"
+D:001° 19 16"E /43° 2858"
+
+g"
+
+N
+N
+N
+E:001°19 09°E / 43° 29 15" N
+
+Ministère de la justice
+
+ 
+
+66
+
+PORTET-SUR-
+GARONNE
+
+TOULOUSE-
+FRANCAZAL
+
+31 - Haute-Garonne
+
+polygone délimité par les points :
+A:001° 2223" E / 43° 32 SO" N
+B:001°22 26°" E /43° 32 49° N
+C:001°22 24"E /43° 32 47°" N
+D:001°22°22"E /45° 32 48" N
+
+Ministère des armées
+
+CTR TOULOUSE
+
+ 
+
+ 
+
+67
+
+ 
+
+BRAUD-ET-SAINT-
+LOUIS
+
+ 
+
+BLAYAIS — BRAUD-
+ET-SAINT-LOUIS
+
+ 
+
+33 - Gironde
+
+ 
+
+polygone délimité par les points :
+À : 000° 40 39" © / 45° 15 38" N
+B : 000° 40° 39" O0 / 45° 14 58" N
+C : 000° 41' 44" O7/45° 14 55 N
+D: 000° 41° 49" O / 45° 15 38" N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-P 1
+
+ 
+
+ 
+ 
+
+68
+
+FLOIRAC
+
+BORDEAUX-
+FLOIRAC
+
+33 - Gironde
+
+polygone délimité par les points :
+A: 000° 32' 20" O / 44° 49' 40" N
+B : 000° 32° 11" O / 44° 49' 48" N
+C : 000° 32' 09" O / 44° 49' 48" N
+D : 000° 32' 08" O / 44° 49' 47" N
+E : 000° 32' 04.3" O / 44° 49' 49.5" N
+F : 000° 32' 04" O / 44° 49' 50" N
+G : 000° 32' 07.5" O / 44° 49" 50.7" N
+H : 000° 32' 07" O / 44° 49° 52.7" N
+1: 000° 31' 60" O / 44° 49 53" N
+J: 000° 31 56.4" O / 44° 49' 49.4" N
+K : 000° 32' 01.2" O / 44° 49' 46.5" N
+L : 000° 31 57.6" O / 44° 49° 43.2"N
+M: 000° 32" 00" © / 44° 48" 42"N
+N : 000° 31° 59.1" O / 44° 49'41.4"N
+©: 000° 32° 12" © / 44° 49° 34"N
+
+Ministère des armées
+
+CTR BORDEAUX
+MERIGNAC
+
+ 
+
+69
+
+GRADIGNAN
+
+BORDEAUX-
+GRADIGNAN
+
+33 - Gironde
+
+polygones délimités par les points
+À: 000° 35° 46,50" O / 44° 46° 53,51" N
+B: 000° 35’ 52,12" O / 44° 46° 53,29° N
+C: 000° 35° 52,42” © / 44° 46 58,48" N
+D: 000° 35’ 46,79" O / 44° 46 58,61” N
+
+Ministère de la justice
+
+ 
+
+ 
+
+70
+
+ 
+
+LA TESTE DE BUCH,
+GUJAN-MESTRAS
+
+ 
+
+CAZAUX
+
+ 
+
+33 - Gironde
+
+ 
+
+polygone délimité par les points :
+: 001° 08 37° © / 44° 34 49"
+: 001° 09° 27° O / 44° 32 46"
+: 001° 08 34" © / 44° 32 80"
+: 001° 08 42" O/ 44° 32 15"
+: 001° 09 37°" O/44° 3227"
+: 001° 10° 25° O / 44° 31 32
+: 001° 06’ 13° O / 44° 30° 00”
+: 001° O4 33" O / 44° 32 17°
+: 001° 05’ 57° O / 44° 34 43°N
+
+=TONMOOwXz
+ZZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-R 31 A1
+et
+LF-D 170
+
+ 
+
+ 
+ 
+
+71
+
+LE BARP
+
+LE BARP
+
+33 - Gironde
+
+polygone délimité par les points :
+
+A: 000° 48° 58" © / 44° 39° 17°
+: 000° 47 46" © / 44° 39 51°
+: 000° 45° 58" O / 44° 39° 04"
+: 000° 45° 54" O / 44° 38° 08"
+: 000° 47 52° O / 44° 38° 07"
+
+mOOu
+
+N
+N
+N
+N
+N
+
+Ministère des armées
+
+LF-P 5
+
+ 
+
+72
+
+MERIGNAC
+
+BORDEAUX-
+MERIGNAC
+
+33 - Gironde
+
+polygones délimités par les points :
+
+A:
+
+OO0ur> OnmOo
+
+zone 1: BA
+
+000° 42’ 48" © / 44° 4851”
+B : 000° 43° 01" O / 44° 49° O6”
+: 000° 43 10" © / 44° 49 18°
+: 000° 42’ 46" © / 44° 49 34°
+: 000° 41° 48" © / 44° 49° 23°
+: 000° 41 39° O / 44° 49° 15°
+: 000° 42° 15° O / 44° 49 01”
+
+Zone 2:LB
+
+: 000° 42° 24" © / 44° 48° 51°
+: 000° 42° 25" O / 44° 48 45°
+: 000° 42° 33" © / 44° 48 45"
+: 000° 42° 32" O / 44° 48° 51°
+
+ZZZZ ZZZZZZZ
+
+Ministère des armées
+
+CTR BORDEAUX
+MERIGNAC
+
+ 
+
+ 
+
+73
+
+ 
+
+SAINT-JEAN-
+D'ILLAC, LANTON,
+LE TEMPLE, SAINT-
+MEDARD-EN-
+JALLES,
+MARTIGNAS-SUR-
+JALLE
+
+ 
+
+SAINT-JEAN-D'ILLAC
+
+ 
+
+33 - Gironde
+
+ 
+
+000° 52’ 35° © / 44° 49 40° N
+
+Cercle de 4 KM de rayon
+centré sur le point
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR BORDEAUX
+
+ 
+
+ 
+ 
+
+74
+
+SAINT-MEDARD-EN-
+JALLES
+
+SAINT-MEDARD-EN-
+JALLES
+
+33 - Gironde
+
+polygones délimités par les points:
+zone 1
+: 000° 46° 20" © / 44° 53° 15°
+: 000° 45’ 14° O / 44° 52 49°
+: 000° 45° 35" © / 44° 52 27"
+: 000° 45 42" © / 44° 52 437
+zone 2
+: 000° 44 52° CO / 44° 52 40°
+: 000° 44 20° OC / 44° 52 37
+: 000° 45 04" OC /44°51 27
+: 000° 45° 30° © / 44° 51° 46°
+zone 3
+: 000° 43 35°" O0 /44°53 31
+: 000° 4257" OC /44°53 17
+: 000° 42 26" O / 44° 52 53"
+: 000° 43 14" © / 44° 51° 56"
+: 000° 44 11" © / 44° 52 08”
+: 000° 44° 05" O / 44° 5327"
+
+ZZZZ ZZZZ
+
+A1MOG»> O0UO0owz> 00w>x>
+
+ZZZZZZ
+
+Ministère des armées
+
+CTR BORDEAUX
+
+ 
+
+75
+
+BEZIERS
+
+BEZIERS
+
+34 - Hérault
+
+0OUx
+
+polygone délimité par les points :
+003° 10 41,86" E / 43° 20° 23,18"
+003° 10° 50,51" E / 43° 20° 27,82"
+003° 10° 56,88" E / 43° 20 21,58
+003° 10° 49,01 E / 43° 20 17,12°
+
+Ministère de la justice
+
+ 
+
+76
+
+VILLENEUVE-LES-
+MAGUELONE
+
+MONTPELLIER-
+VILLENEUVE-LES-
+MAGUELONE
+
+34 - Hérault
+
+voux
+
+polygone délimité par les points :
+003° 49° 42,84" E / 43° 32° 42,18"
+003° 49° 31,91" E / 43° 32° 42,29"
+003° 49° 28,75" E / 43° 32 47,24"
+003° 49° 38,83" E / 43° 32 50,77"
+
+Ministère de la justice
+
+ 
+
+ 
+
+77
+
+ 
+
+VEZIN-LE-COQUET,
+RENNES
+
+ 
+
+RENNES-VEZIN
+
+ 
+
+35 — Ille-et-Vilaine
+
+ 
+
+polygone délimité par les points :
+A: 001° 44° 20,6" O / 48° 06 34,9° N
+B: 001° 44° 07,0” O / 48° 06’ 35,7° N
+C: 001° 44’ 05,2" O / 48° 06 28,9" N
+D: 001° 44° 18,4" © / 48° 06 26,7" N
+
+ 
+
+Ministère de la justice
+
+ 
+
+CTR RENNES
+
+ 
+
+ 
+ 
+
+78
+
+CHATEAUROUX
+
+CHATEAUROUX
+
+36 - Indre
+
+Doux
+
+polygone délimité par les points :
+
+001° 43° 12,59" E / 46° 47 37,66"
+:001° 43° 22,71* E / 46° 47° 40,81"
+001° 43' 26,81" E / 46° 47 34,62°
+001° 43 16,88" E / 46° 47 31,13°
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+79
+
+ROSNAY, MIGNE
+
+ROSNAY
+
+36 - Indre
+
+polygone délimité par les points :
+: 001° 14° 40° E / 46° 43° 38"
+:001° 15" 08" E / 46° 43' 30"
+: 001° 15° 42" E / 46° 43° 05"
+:001° 1537" E / 46° 42° 22°
+:001° 15" 16" E / 46° 42° 09"
+:001° 14 38" E / 46° 47 03"
+: 001° 13° 44" E / 46° 42 29°
+: 001° 1338" E / 46° 42'55"
+:001° 13 51" E/ 46° 43 12° N
+
+—LONMOOmr
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-P 43
+
+ 
+
+80
+
+SAINT MAUR
+
+SAINT MAUR
+
+36 - Indre
+
+polygone délimité par les points :
+A:001°38 07° E / 46° 47° 48"
+B : 001°38' 09" E / 46° 47 34"
+C:001° 37 56" E / 46° 47° 33"
+D: 001° 37° 49" E / 46° 47° 40”
+E:001°37 54" E /46° 47 47°
+
+ZZZZZ
+
+Ministère de la justice
+
+ 
+
+81
+
+AVOINE
+
+CHINON AVOINE
+
+37 - Indre-et-Loire
+
+polygone délimité par les points :
+À: 000° 10 51"E /47° 13 59° N
+B : 000° 10 30°E /47° 13 22°"N
+C : 000° 09 41° E /47° 13 19° N
+D : 000° 09’ 36” E / 47° 14 05° N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 22
+
+ 
+
+ 
+
+82
+
+ 
+
+AVON-LES-ROCHES
+
+ 
+
+LE RUCHARD
+
+ 
+
+37 - Indre-et-Loire
+
+ 
+
+polygone délimité par les points :
+: 000° 27 53° E / 47° 11° 06"
+: 000° 28 14°E / 47° 11 16"
+: 000° 28’ 44" E / 47° 1112"
+: 000° 28’ 20" E / 47° 10° 43"
+: 000° 27° 51° E / 47° 10° 44"
+
+MUOUxr
+ZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-R 2
+
+ 
+
+ 
+ 
+
+83
+
+CING-MARS-LA-PILE
+
+CING-MARS-LA-PILE
+
+37 - Indre-et-Loire
+
+polygones délimités par les points :
+
+zone 1 : îlot À
+: 000° 28 05" E / 47° 20° 59"
+: 000° 28 11° E/47° 21 01”
+: 000° 28’ 09” E / 47° 21 03"
+: 000° 28 12" E / 47° 21 06”
+: 000° 28 12" E / 47° 21 08”
+: 000° 28 04" E / 47° 21° 06"
+: 000° 28° 01" E/47° 21 12°
+: 000° 27° 49" E / 47° 21° 09"
+: 000° 27° 52" E/ 47° 21 04"
+: 000° 27 56" E / 47° 20° 60°
+: 000° 28° 01" E / 47° 21 01”
+: 000° 28 03" E / 47° 21° 00"
+zone 2'îlotB
+: 000° 27 55" E/47°21 47"
+: 000° 28° 08" FE /47°21 51"
+: 000° 28 08"E /47° 21 55"
+: 000° 28" 07"E /47° 2155"
+: 000° 28 07"E/47°21 57"
+: 000° 28 08" E / 47° 21 58”
+: 000° 28’ 06" E / 47° 22 01”
+: 000° 27 55°E/47° 2159"
+
+FAC-ILIONMOOwXx>
+ZZZZZZZZ ZZZZEZZZZZZZZ
+
+TLONMOUOWz>
+
+Ministère des armées
+
+CTR TOURS
+
+ 
+
+84
+
+MONNAIE
+
+CRE
+
+37 - Indre-et-Loire
+
+polygone délimité par les points :
+À : 000° 45 06,4" E / 47° 28° 57,9"
+B : 000° 46 14,6" E / 47° 28° 53,0"
+C : 000° 46° 28,5" E / 47° 29° 01,5"
+D : 000° 46° 248" E / 47° 29' C4,1”
+
+ZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+85
+
+ 
+
+MONTS
+
+ 
+
+LE RIPAULT
+
+ 
+
+37 - Indre-et-Loire
+
+ 
+
+polygone délimité par les points :
+: 000° 38" 30° E / 47° 17° 46"
+: 000° 38° 21° E / 47° 17° O0"
+: 000° 40’ 30" E / 47° 17° 21"
+: 000° 40’ 36" E / 47° 17° 26"
+: 000° 40 34° E / 47° 17 42°
+: 000° 40 20"E /47° 17 38"
+
+NnMOOmx»
+ZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-ZIT 29
+
+ 
+
+ 
+ 
+
+86
+
+PARÇAY-MESLAY
+
+TOURS
+SAINT-SYMPHORIEN
+
+37 - Indre-et-Loire
+
+polygone délimité par les points :
+: 000° 43" 05" E / 47° 26 27"
+: 000* 42’ 44" E 7 47° 26° 09"
+: 000° 42 35° E / 47° 26 12°
+: 000° 42 20° E / 47° 25 58"
+: 000° 42 23°E / 47° 25 56"
+: 000° 42° 25° E / 47° 25 53"
+: 000° 42’ 31° E / 47° 25° 58"
+: 000° 42° 26" E /47° 25' 53"
+000° 42’ 36° E / 47° 25° 47°
+: 000° 42’ 40" E / 47° 25' 45"
+: 000° 42 42"E / 47° 25 32"
+: 000° 43 OS" E / 47° 25 34°
+: 000° 43 05" E /47° 25 41°
+: 000° 43 18" E 7 47° 25 39"
+: 000° 43° 12° E / 47° 25° 22"
+: 000° 43 17" E 7 47° 25° 03"
+: 000° 43° 19° E / 47° 25° 03"
+: 000° 43 36" E / 47° 25 29"
+: 000° 43’ 48" E / 47° 25 52"
+000° 44 03" E / 47° 26 37°
+: 000° 43 58" E / 47° 26° 37°
+: 000° 44 02" E / 47° 26° 42"
+: 000° 43 54° E / 47° 26° 43”
+: 000° 43' 53" E / 47° 26 37"
+: 000° 43 37" E / 47° 26 38"
+: 000° 43° 31° E / 47° 26 25"
+
+N<KXE<CWTDVTOZETAC-LIONMOOwX»
+ZZZZzZZZZZzZzZzZZZZLZZZzZZZZzZzZz
+
+Ministère des armées
+
+CTR TOURS
+
+ 
+
+87
+
+CREYS - MEPIEU
+
+CREYS - MALVILLE
+
+38 - Isère
+
+polygone délimité par les points :
+À: 005° 28 12" E/ 45° 45 54° N
+B: 005° 28 50°" E/ 45° 45 18" N
+C : 005° 28 20° E / 45° 45 O1" N
+D:005°27 29"E7/ 45° 45 32°N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-ZIT 11
+
+ 
+
+ 
+
+88
+
+ 
+
+GRENOBLE
+
+ 
+
+GRENOBLE
+
+ 
+
+38 - Isère
+
+ 
+
+polygones délimités par les points :
+
+A: 005° 41 12"E/ 45° 1238" N
+B : 005° 41° 38"E /45° 1235" N
+C : 005° 42° 00" E / 45° 12° 19"N
+D: 005° 41° 42" E/ 45° 12 OS"N
+E:005° 41° 16"E/45°12°27"N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-ZIT 14
+
+ 
+
+ 
+ 
+
+89
+
+GRENOBLE
+
+GRENOBLE
+
+38 - Isère
+
+polygones délimités par les points :
+
+: 005° 41° 42" E / 45° 12° O9"
+: 005° 42 O0" E / 45° 12° 19"
+: 005° 42’ 40" E / 45° 11° 50"
+: 005° 42° 37"E / 45° 11° 33"
+: 005° 42° 12"E 7 45° 11° 33"
+: 005° 42 O8" E / 45° 11° 48”
+
+A1MOO0OwE
+ZZZZZZ
+
+Ministère des armées
+
+LF-ZIT 14
+
+ 
+
+90
+
+SAINT — ALBAN- DU-
+RHONE
+SAINT-MAURICE-
+L'EXIL
+
+SAINT - ALBAN
+
+38 - Isère
+
+polygone délimité par les points :
+À: 004° 45 20" E/ 45° 24 56" N
+B : 004° 45° 49°" EF / 45° 24 OS"N
+C : 004° 45 18" E/ 45° 23 55" N
+D: 004° 4435" EF / 45° 24 A7'N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 18
+
+ 
+
+91
+
+VARCES
+
+GRENOBLE-VARCES
+
+38 - Isère
+
+Dour
+
+polygone délimité par les points :
+
+005° 41’ 09,02" E / 45° 06’ 01,40"
+005° 41° 15,01" E / 45° 06° 00,30"
+005° 41 12,98" E / 45° 05 54,70"
+005° 41° 06,86" E / 45° 05° 55,77"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+92
+
+BISCARROSSE
+
+BISCARROSSE
+
+40 - Landes
+
+polygone délimité par les points :
+: 001° 16° 00" © / 44° 23 22°
+:001° 15° 17" O / 44° 23 22°
+: 001° 13° 58" O / 44° 22° 53"
+: 001° 13° 39° O / 44° 21 47"
+: 001° 14° 29° © / 44° 20° 51°
+: 001° 16° 01” © / 44° 20° 37°
+: 001° 16° 28° © / 44° 20° 49°
+:001° 1721" O0 /44° 21 11”
+: 001° 17 39° © / 44° 22° 18"
+: 001° 16° 48" O / 44° 23° 15
+
+c—ITONnMmOUOux
+ZZZzzZzzzzz
+
+Ministère des armées
+
+LE-R 148 + ZIT activable pour
+activités sensibles
+
+ 
+
+ 
+
+93
+
+ 
+
+MONT-DE-MARSAN
+
+ 
+
+MONT-DE-MARSAN
+
+ 
+
+40 - Landes
+
+ 
+
+vomr
+
+polygone délimité par les points :
+
+000° 27° 05,71" O/ 43° 53 47,12"
+000° 26° 53,25" © / 43° 53° 47,44"
+000° 26° 52,69" © / 43° 53 38,42"
+000° 27° 05,34" © / 43° 53 38,04"
+
+ZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+94
+
+MONT-DE-MARSAN,
+CAMPET-ET-
+LAMOLERE,
+UCHACQ-ET-
+PARENTIS
+
+MONT-DE-MARSAN
+
+40 - Landes
+
+polygone délimité par les points :
+: 000° 30° 42" O /43° 53 57"
+: 000° 29° 45" O / 43° 53 57"
+: 000° 28° 53" O /43° 54 17"
+: 000° 28° 26" O /43° 5455"
+: 000° 29° 18" © / 43° 55° 42"
+: 000° 31° 56” O / 43° 55° 24”
+: 000° 32° 50° © / 43° 54° 48"
+: 000° 32° 33° O / 43° 54 27"
+: 000° 31 17" O/43* 54 12"N
+
+—LIONMOONxX
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-P 35
+
+ 
+
+95
+
+SAUGNACQ-ET-
+MURET, BELIN-
+BELIET
+
+BELIN
+
+40 - Landes
+
+polygone délimité par les points :
+: 000° 54’ 53° O / 44° 25 54" N
+: 000° 53’ 02” O / 44° 26 21° N
+: 000° 52° 24" O / 44° 25° A4" N
+: 000° 53 40” O / 44° 24 25°N
+: 000° 54’ 21” O / 44° 24 36" N
+
+MOOUx>
+
+Ministère des armées
+
+LF-D 91
+LF-R 91 par NOTAM
+
+ 
+
+96
+
+ROMORANTIN-
+LANTHENAY
+
+ROMORANTIN
+
+4i - Loir-et-Cher
+
+polygones délimités par les points :
+zone 1
+À : 001° 41 06,5" © /47°19 20,S°N
+B : 001° 4041 G/47° 19 15 N
+€: 001° 40° 47,4" 0 47° 19 O8.4'N
+zone 2
+À : 001° 40° 43,8" GC /47° 19 OSS"N
+B : 001° 40° 53,5" OC /47° 18" 55,7" N
+C:001° 41 33" O0 /47° 19 19°N
+D:001° 41 283"O/47°19 S4°N
+zone 3
+À :001° 4133" O/47° 19 19°N
+B: 001° 41° 28,3° O / 47° 19 34° N
+: 001° 41 43" O0 /47° 19 24°N
+: 001° 41 58" O /47° 19 O2°'N
+:001° 41 44" C/47° 18 42°" N
+: 001° 41° 21° CG/47° 18 34°N
+: 001° 40 52° OC / 47° 18° 36° N
+: 001° 40° 44" O /47° 18 50° N
+
+TONMOO
+
+Ministère des armées
+
+ 
+
+ 
+
+97
+
+ 
+
+SAINT-LAURENT-
+NOUAN
+
+ 
+
+SAINT-LAURENT-
+DES-EAUX
+
+ 
+
+41 - Loir-et-Cher
+
+ 
+
+polygone délimité par les points :
+A:001° 34 54" E/47° 43 36° N
+B:001° 35 20"E/47° 43 32° N
+C:001° 34 40°" E / 47° 42 4S°N
+D: 001° 34 19" E/ 47° 43 14°N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-P 34
+
+ 
+
+ 
+ 
+
+98
+
+SALBRIS
+
+SALBRIS
+
+41 — Loir-et-Cher
+
+polygone délimité par les points :
+:002° 01 39" E / 47° 27 06"
+: 002° 02 37" E / 47° 26 23"
+: 002° 02 38" E / 47° 26 05"
+: 002° 02 16" E/ 47° 25 54"
+: 002° 01 19° E / 47° 26° 06"
+: 002° 00’ 37° E / 47° 26 28"
+: 002° O1’ 24° E / 47° 27° 04"
+
+ONnMOOwx>
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+99
+
+LA TALAUDIÈERE
+
+SAINT-ETIENNE-LA-
+TALAUDIERE
+
+42 - Loire
+
+QUMOOmX
+
+polygone délimité par les points :
+
+: 04° 24° 58,48" E / 45° 28° 25,10"
+: 0C4° 24° 59,53" E / 45° 28° 24,28"
+: 004° 24° 59,39" E / 45° 28° 22,25"
+004° 24 56,47" E / 45° 28° 19,43"
+004° 24° 53,38" E / 45° 28° 21,62"
+004° 24 53,60" E / 45° 28° 23,94"
+004° 24 55,01* E / 45° 28° 25,24"
+
+ZZZZZZZ
+
+Ministère de la justice
+
+ 
+
+100
+
+ROANNE
+
+ROANNE
+
+42 - Loire
+
+polygone délimité par les points :
+À: 004° 05’ 27,6" E / 46° 04’ 00,0"
+B : 004° 05 09,4" E / 46° O4’ 00,6"
+C : 004° 05 09,7" E / 46° 04 10,0"
+D: 004° C5’ 27,5" E / 46° O4’ 09,0"
+
+ZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+101
+
+ 
+
+LA CHAPELLE-
+LAUNAY
+
+ 
+
+DONGES — PARC C
+
+ 
+
+44 - Loire-Atlantique
+
+ 
+
+—TIONMOOUr
+
+polygone délimité par les points :
+: 001° 58’ 48,9" O / 47° 21° 25,8"
+: 001° 58’ 48,3" O / 47° 21 22,0"
+: 001° 59° 10,8" O/47° 21 17,5"
+: 001° 59 09,7” O / 47° 21 10,0"
+: 001° 59° 01,5” O / 47° 21° 07,8"
+: 001° 59° 01,8" O / 47° 21 04,8”
+: 001° 58 42,4" O / 47° 21 06,0”
+: 001° 58° 34,8" O / 47° 21 14,8"
+
+ZZZZZZZZ
+
+: 001° 58° 38,4" O/47°21 27,3"N
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 8
+
+ 
+
+ 
+ 
+
+102
+
+NANTES
+
+NANTES
+
+44 — Loire-Atlantique
+
+polygone délimité par les points :
+A: 001° 30’ 33,2" O / 47° 16° 01,0"
+B: 001° 30° 20,9" O / 47° 16° 09,3"
+C: 001° 30° 15,8” O / 47° 16 05,7”
+D: 001° 30° 14,9" O / 47° 16 00,3”
+E: 001° 30° 23,6 O / 47° 15 54,4”
+
+ZZZZZ
+
+Ministère de la justice
+
+ 
+
+103
+
+BRICY, BOULAY-
+LES-BARRES,
+COINCES
+
+ORLEANS-BRICY
+
+45 - Loiret
+
+polygone délimité par les points :
+:001° 43 52° E/ 47° 59 20° N
+: 001° 44 38" E / 47° 58 45"
+: 001° 45 42" E/ 47° 58 40"
+: 001° 46 58" E/ 47° 58 47°
+: 001° 48 10" E/47° 59 1
+: 001° 48° O6" E / 47° 59 3
+: 001° 47' 45° E / 47° 59° 46"
+: 001° 46’ 48" E / 47° 59 43"
+: 001° 46 14" E / 48° 00’ 28”
+: 001° 44 54" E 7 48° OO 14”
+
+7°
+7"
+
+c—TONMmOOwxz
+
+N
+N
+N
+N
+N
+N
+N
+N
+N
+
+Ministère des armées
+
+CTR BRICY
+
+ 
+
+104
+
+DAMPIERRE - EN -
+BURLY
+
+DAMPIERRE - EN -
+BURLY
+
+45 - Loiret
+
+polygone délimité par les points :
+A: 002° 30’ 46" E/ 47° 44 18" N
+B: 002° 31 38° E/47° 43 52°N
+C:002° 31 16E/47°43 33°N
+D : 002° 30 23° E / 47° 44 O4" N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 24
+
+ 
+
+ 
+
+105
+
+ 
+
+FLEURY-LES-
+AUBRAIS
+
+ 
+
+CAMP DE
+CHANTEAU
+ORLEANS
+
+ 
+
+45 - Loiret
+
+ 
+
+polygone délimité par les points :
+: 001° 56 44" E / 47° 57 26"
+: 001° 56 23°" E / 47° 57 26"
+:001° 56 04" E/47° 57 25"
+:001°55 54" E/47° 57 19"
+: 001° 56 02"E/47° 57 16"
+: 001° 56 05" E/47° 56 54”
+:001° 56 19° E/47° 56 52"
+:001° 56 32" E/ 47° 57° O7”
+: 001° 56 43" E /47°57 18
+: 001° 56° 47" E/ 47° 57 23"
+
+C—TIONMOOUxz
+ZZZZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+106
+
+SARAN
+
+CERCOTTES
+
+45 - Loiret
+
+polygone délimité par les points :
+:001° 54 18" E / 47° 57° 22"
+:001° 54 24"E / 47° 57 32"
+:001° 54 33" E / 47° 57° 36"
+:001° 55 04" E / 47° 57° 36"
+:001° 55 O6"E/ 47° 57° 28"
+:001° 54 55" E/47° 57 17"
+: 001° 54 31" E/ 47° 57 02°
+:001°54 23"E/ 47° 57 12"
+: 001° 54 27"E/ 47° S72TN
+
+—IONMOOmEz
+ZZZZZZZZ
+
+Ministère des armées
+
+ 
+
+107
+
+SARAN
+
+ORLEANS-SARAN
+
+45 - Loiret
+
+polygone délimité par les points :
+A:001°52 13" E/47°57 52°N
+B: 001° 52° 19" EF /47°58' OO'N
+C:001°52 29" E/47°57 57" N
+D:001° 52 24"E/47° 57 S0'N
+
+Ministère de la justice
+
+CTR BRICY
+
+ 
+
+108
+
+GRAMAT
+
+GRAMAT
+
+46 - Lot
+
+polygone délimité par les points :
+À: 001° 43 O0"E / 44° 44 35°N
+B : 001° 44 35" E / 44° A4 52"N
+C : 001° 45 07" E / 44° 44 OC" N
+D: 001° 4313" E / 44° 43 42"N
+
+Ministère des armées
+
+ 
+
+109
+
+LES PONTS-DE-CE
+
+ANGERS
+
+49 - Maine-et-Loire
+
+TONMOOUX
+
+polygone délimité par les points :
+: 000° 30° 01,9" O / 47° 26 25,2"
+: 000° 29° 57,8" O / 47° 26 15,1"
+: 000° 29 46,8" O / 47° 26 17,0"
+: 000° 29 46,5" O / 47° 26° 13,0"
+: 000° 30° 03,2" © / 47° 26 11,3"
+: 000° 30° 07,0" © / 47° 26 17,1"
+: 000° 30° 01,8" © / 47° 26° 18,4
+: 000° 30° 04,2" O / 47° 26 24,6"
+
+ZZZZZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+110
+
+ 
+
+CHERBOURG-EN-
+COTENTIN
+
+ 
+
+CHERBOURG
+
+ 
+
+50 - Manche
+
+ 
+
+polygone délimité par les points :
+: 001° 36° 57" O / 49° 39° 29°
+:001° 37 31° O / 49° 38° 48"
+: 001° 38° 08" O / 49° 38° 46"
+: 001° 38° 29° O / 49° 38° 55"
+: 001° 39° 05" O / 49° 39° 25"
+: 001° 38° 10° © ; 48° 39° 38"
+
+ANMOOUXr
+ZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 81
+
+ 
+
+ 
+ 
+
+polygone délimité par les points :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+À: 001° 52° 140 /489° 32 44" N Ministère de la transition LF-P 6-1 ET
+111 | FLAMANVILLE FLAMANVILLE 50 - Manche B : 001° 52° 50° O / 49° 31 45" N écologique et solidaire LF-P 6-2
+C : 001° 53 27" O / 49° 32° 6" N ga
+D : 001° 52° 56” O / 49° 32° 39° N
+cercle de 500 m de rayon
+112 RARE LE ARR LE 50 - Manche centré sur le point Ministère des armées
+001° 30 16" O / 49° 08 58" N
+LA polygone délimité par les points :
+PETITE, JOBOURG À: 007754 00 O 487 41 OO N Ministère de la transition LF-P 7
+113 . ” | LA HAGUE 50 - Manche B : 001° 51 45° O / 49° 41 OO" N ; . Le
+DIGULLEVILLE, € : 001° 51° 45" O / 49° 40 30° N écologique et solidaire
+HERQUEVILLE !
+D : 001° 54° 00” O / 49° 40° 30" N
+polygone délimité par les points :
+A: 004° 22’ 13,7" E/ 49° 04 35,1" N
+B : 004° 21 54,4" E / 49° 04 25,1" N Lines A
+114 | BOUY CRE 51 - Marne C : 004° 22 29.9" E / 49° 03 592" N Ministère des armées
+D : 004° 22 27,7" E / 49° 04 O9,3"N
+E : 004° 22 50,6" E / 49° 04 21,9"N
+polygone délimité par les points :
+À: 004° 22’ 00,72" E / 48° 57° 44,05" N
+CHALON-EN- CHALON-EN- : 3200 og SET JR ag see à
+115 CHAMPAGNE CHAMPAGNE 51 - Marne B: 004° 22° 01,34" E / 48° 57 46,87" N Ministère de la justice
+
+ 
+
+ 
+
+ 
+
+ 
+
+C: 004° 22’ 06,01" E / 48° 57 46,80" N
+D: 004° 22' 05,28" E / 48° 57 43,59" N
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+polygone délimité par les points :
+
+ 
+
+ 
+
+ 
+
+ 
+
+À: 004° 04 19"E / 48° 46 31° N
+CONNANTRAY- B : 004° 05 36" E/ 48° 46 22°" N
+VAUREFROY, FERE- C : 004° 05' 30" E / 48° 46 13"N ces A
+116 CHAMPENOISE, CONNANTRAY 51 - Marne D : 004° 05 01" E/ 48° 46 19" N Ministère des armées
+LENHARREE E : 004° 03° 30" EF / 48° 45 28"N
+F : 004° 03 O0"E / 48° 45 31"N
+G : 004° O2 55° E / 48° 45 AN
+polygone délimité par les points :
+A: 004° 19° 06,4" E } 49° 07" 35,2" N
+117 [ORNE ONE | MOURMELON 51 - Marne B: 004° 19 06,0" E/ 49° 08 07,6" N Ministère des armées LF-R 4B
+C : 004° 19 39,4" E / 49° 08 16,9" N
+D: 004° 20° 13,0" E / 49° 07 59,0" N
+polygone délimité par les points :
+PONTFARVER- A: 004° 18 04" E/ 49° 1# s0" N
+MORONVILLIERS B : 004° 18 01" E/ 49° 14 26"N L LF-P30
+118 . MORONVILLIERS 51 - Marne C : 004° 18 06" E/49° 14 53" N Ministère des armées LF-R 63
+SAINT-MARTIN- : e 40 9e» ve
+L'HEUREUX D : 004° 1925" E / 49° 14 5S7"N
+E : 004° 19° 42" E / 49° 14° 28"N
+F : 004° 19° 37"E / 49° 13 18"N
+polygone délimité par les points :
+À: 004° 57 08,8" E/ 48° 04 29,3" N
+119 |ORGES CRE 52 - Haute-Marne B : 004° 56 50,4" E / 48° Od'IS4'N Ministère des armées
+
+ 
+
+ 
+
+ 
+
+ 
+
+C : 004° 56° 60,0" E / 48° 04 O6,1" N
+D: 004° 57 30,6" E / 48° 04 27,6" N
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+120
+
+SAINT-DIZIER,
+VALCOURT,
+MOESLAINS,
+LANEUVILLE-AU-
+PONT,
+HALLIGNICOURT
+
+SAINT-DIZIER
+
+52 - Haute-Marne
+
+polygone délimité par les points :
+: 004° 53° 48"E / 48° 37° 16"
+: 004° 53 57" E 7 48° 37 O8"
+: 004° 54 27" E / 48° 36° 59"
+: 004° 55’ 03" E / 48° 37° 05"
+: 004° 55° 38° E / 48° 37° 40"
+: 004° 55° 16° E / 48° 38 29"
+: 004° 52° 36° E / 48° 38 51”
+: 004° 52° 11" E / 48° 37° 32"
+
+TONMOOmX>
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-ZIT 42
+
+ 
+
+121
+
+MAXEVILLE, NANCY
+
+NANCY - MAXEVILLE
+
+54 — Meurthe-et-
+Moselle
+
+polygone délimité par les points :
+À: 006° 08' 54,3" E / 48° 42 28,8"
+B: 006° 09’ 06,9" E / 48° 42 32,4"
+C: 006° 09° 11,7" E / 48° 42° 24,4"
+D: 006° 08’ 59,6" E / 48° 42’ 20,8”
+
+ZZZZ
+
+Ministère de la justice
+
+CTR OCHEY
+
+ 
+
+122
+
+NANCY
+
+DELPIA — CASERNE
+THIRY
+
+54 - Meurthe-et-
+Moselle
+
+polygone délimité par les points :
+À: 006° 11° 12,6" E/ 48° 41 46,8”
+B : 006° 11° 16,0" E / 48° 41° 42,0"
+C: 006° 11 23,3" E / 48° 41 44,2"
+D: 006° 11° 19,9" E / 48° 41° 49,1"
+
+ZZZZ
+
+Ministère des armées
+
+CTR NANCY
+
+ 
+
+ 
+
+123
+
+ 
+
+OCHEY, THUILLEY-
+AUX-GROSEILLES
+
+ 
+
+NANCY - OCHEY
+
+ 
+
+54 - Meurthe-et-
+Moselle
+
+ 
+
+polygone délimité par les points :
+: 005° 56° 03" E / 48° 34° 24"
+: 005° 57 10" E / 48° 33° 58"
+: 005° 58 07"E / 48° 34° 28"
+: 005° 58° 29° E / 48° 35° 39"
+: 005° 57 08"E / 48° 35° 95"
+: 005° 56° S6"E / 48° 35° 13"
+: 005° 56° 45" E / 48° 34 53"
+
+ONnMOOmXr
+ZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR NANCY
+
+ 
+
+ 
+ 
+
+124
+
+MOULAINVILLE,
+BELRUPT-EN-
+VERDUNOIS,
+SOMMEDIEUE,
+CHATILLON-SOUS-
+LES-COTES
+
+VERDUN LE
+ROZELIER
+
+55 - Meuse
+
+polygone délimité par les points :
+A: 005° 29 05" E / 49° 09' O4”
+B : 005° 29' 30° E / 49° 09' 02"
+C : 005° 29° 44" E / 49° 08’ 43"
+D: 005° 29° 43" E / 49° 08° 27"
+E : 005° 30 30° E / 49° 08' 22°
+F : 005° 30’ 34° E / 49° O8 01"
+G : 005° 28 50° E / 49° 07° 36”
+
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+125
+
+BEIGNON
+
+COETQUIDAN
+
+56 - Morbihan
+
+polygone délimité par les points :
+:002° 1037" O/47° 57 32"N
+: 002° 10° 26° O/47° 57 25"N
+:002° 11 22" O/47° 57 OS" N
+:002° 11 27° O/47°57 16°N
+
+OO0ouYxr
+
+Ministère des armées
+
+LF-R 506 A/B
+Par NOTAM
+
+ 
+
+126
+
+QUEVEN,
+PLOEMEUR, GUIDEL
+
+LANN-BIHOUE
+
+56 - Morbihan
+
+polygone délimité par les points :
+À : 003° 26° 40° O / 47° 46 55"
+B : 003° 25 29° O / 47° 46° 38"
+€ : 003° 25° 20" O /47° 4525"
+D : 003° 27 30" © /47° 44 17"
+E : 003° 27 50° O / 47° 44° 40"
+F : 003° 28° 08” O/ 47° 46 15
+
+ZZZZZZ
+
+Ministère des armées
+
+CTR LORIENT
+LF-R 183
+
+ 
+
+127
+
+CATTENOM
+
+CATTENOM
+
+57 - Moselle
+
+polygone délimité par les points :
+A: 006° 13 28"E / 49° 25° 38° N
+B : 006° 14 00"E / 49° 25 O9'N
+C: 006° 13 18" E/ 49° 24° 34" N
+D: 006° 12 05" E / 49° 24 40°'N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 39
+
+ 
+
+ 
+
+128
+
+ 
+
+QUEULEU
+
+ 
+
+METZ-QUEULEU
+
+ 
+
+57 - Moselle
+
+ 
+
+oowuXx
+
+polygone délimité par les points :
+
+006° 12° 31,63" E / 49° 06° 02,65"
+006° 12° 41,32" E / 49° 05° 53,85"
+006° 12° 33,83" E / 49° O5’ 50,31”
+006° 12° 24,13" E / 49° O5’ 59,24”
+
+ZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+129
+
+SARREBOURG-
+HESSE
+
+CRE
+
+57 - Moselle
+
+polygone délimité par les points :
+: 007° 02’ 32,0" E / 48° 42’ 29,6”
+:007* 02 141" E / 48° 42° 24,1"
+: 007° 02 13,3" E / 48° 42 21,8"
+: 007° 02 16,1" E / 48° 42 18,5"
+: 007° 02 36,8" E / 48° 42° 15,7”
+: 007° 02’ 40,5" E / 48° 42° 29,2”
+
+1MmOO0wx>
+
+ZZZZZZ
+
+Ministère des armées
+
+ 
+
+130
+
+ANNOEULLIN
+
+ANNOEULLIN
+
+59 - Nord
+
+polygone délimité par les points :
+À: 002° 56° 08,5" E / 50° 30° 43,9"
+B: 002° 56 20,8" E / 50° 30' 48,8”
+C: 002° 56° 27,4" E / 50° 30° 46,8”
+D: 002° 56° 28,3" E / 50° 30' 44,7”
+E: 002° 56’ 28,7" E / 50° 30 41,2”
+F: 002° 56° 17,5" E / 50° 30° 36,4"
+
+ZZZZZZ
+
+Ministère de la justice
+
+CTR LILLE
+
+ 
+
+131
+
+GRAVELINES
+
+GRAVELINES
+
+59 - Nord
+
+polygone délimité par les points :
+: 002° 08 25"E/51°01 11" N
+B : 002° 08’ 45" E/51° 00 58" N
+C:002° 07 54" E/51° 00 34" N
+D: 002° C7 39" E/51° 00 48" N
+
+>
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 26
+
+ 
+
+132
+
+LONGUENESSE
+
+LONGUENESSE
+
+59 - Nord
+
+Dour
+
+polygone délimité par les points :
+
+002° 14° 54,91" E / 50° 43° 36,25"
+002° 14 58,34" E / 50° 43° 30,54"
+002° 14 47,84" E 7 50° 43° 28,31"
+002° 14 44,34" E 7 50° 43 33,93"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+133
+
+MAUBEUGE
+
+MAUBEUGE
+
+59 - Nord
+
+0ouXx
+
+polygone délimité par les points :
+
+004° 00’ 08,51" E / 50° 17° 15,32"
+004° 00’ 04,74" E / 50° 17° 20,39"
+004° 00' 13,01" E / 50° 17° 22,95"
+004° 00' 17,93" E / 50° 17° 18,24"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+134
+
+ 
+
+SEQUEDIN,
+HALLENNES-LEZ-
+HAUBOURDIN
+
+ 
+
+SEQUEDIN
+
+ 
+
+59 - Nord
+
+ 
+
+polygone délimité par les points :
+À: 002° 57 51,1" E / 50° 37 15,4
+B: 002° 58' O2,5"E / 50° 37 19,7"
+C: 002° 58 11,3" E/ 50° 37 12,3"
+D: 002° 57° 59,0" E / 50° 37° 08,3"
+
+N
+N
+N
+N
+
+ 
+
+Ministère de la justice
+
+ 
+
+CTR LILLE
+
+ 
+
+ 
+ 
+
+135
+
+BEAUVAIS
+
+BEAUVAIS
+
+60 - Oise
+
+polygone délimité par les points :
+A: 002° O4 48" E/ 49° 24 27"N
+B : 002° 04’ 44" E / 49° 24 36° N
+C : 002° 05 00" E / 49° 24° 39° N
+D :002° C5 0S"E/ 48° 24 30° N
+
+Ministère de la justice
+
+CTR BEAUVAIS
+
+ 
+
+136
+
+CREIL, APREMONT,
+VERNEUIL-EN-
+HALATTE
+
+CREIL
+
+60 - Oise
+
+polygone délimité par les points :
+: 002° 29° 39" E / 49° 15° 13"
+: 002° 30° O0" E / 49° 14° 40"
+: 002° 31° 18" E / 49° 14° 14°
+: 002° 32 51" E / 48° 1515"
+: 002° 32° 02" E / 49° 15° 57"
+: 002° 30° 45" E / 49° 15° 47"
+
+NnMmOOUz
+ZZZZZZ
+
+Ministère des armées
+
+CTR CREIL
+
+ 
+
+137
+
+LIANCOURT
+
+LIANCOURT
+
+60 - Oise
+
+polygone délimité par les points :
+À: 002° 28 25,7" E / 49° 19 57,2"
+B: 002° 28° 34,3" E / 49° 20' 03,2"
+C: 002° 28° 44,2" E / 49° 19 57,4"
+D: 002° 28° 35,4" E / 49° 19 51,4”
+
+ZZZZ
+
+Ministère de la justice
+
+CTR CREIL
+
+ 
+
+138
+
+CONDE-SUR-
+SARTHE
+
+CONDE-SUR-
+SARTHE
+
+61 - Orne
+
+polygone délimité par les points :
+À: 000° 00’ 22,9" E / 48° 26° 23,9"
+B: 00C° 00 27,7" E / 48° 26 28,2"
+C: 000° 00’ 36,7" E / 48° 26 29,4"
+D: 000° 00' 48,5" E / 48° 26° 23,5"
+E: 000° 00' 38,0" E / 48° 26 15,7"
+
+ZZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+139
+
+ 
+
+VENDIN-LE-VIEIL
+
+ 
+
+VENDIN-LE-VIEIL
+
+ 
+
+62 — Pas-de-Calais
+
+ 
+
+polygone délimité par les points :
+A: 002° 49' O8,4"E / 50° 27 34,2"
+B: 002° 49° 20,1" E / 50° 27 37,1"
+C: 002° 49° 25,2" E / 50° 27 29,1"
+D: 002° 49° 14,0" E / 50° 27° 26,2"
+
+ZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+140
+
+CLERMONT-
+FERRAND
+
+CLERMONT-
+FERRAND
+
+63 - Puy-de-Dôme
+
+polygone délimité par les points :
+: 003° 10° 24" E/ 45° 47 O6" N
+: 003° 09’ 49" E / 45° 47 O2"
+: 003° 09’ 45° E / 45° 47° 02"
+: 003° 09 42° E / 45° 47° 00"
+: 003° 09’ 28° E / 45° 46 59"
+: 003° 09° 26° E / 45° 46 42° N
+: 003° 10° 09° E / 45° 46 40° N
+: 003° 10° 11" E/ 45° 46 41" N
+: 003° 10° 13"E / 45° 46 ST'N
+: 003° 10’ 23" E / 45° 47° 02° N
+
+N
+N
+N
+N
+
+cC—TONnMOOwxz
+
+Ministère des armées
+
+LF-P 4
+
+ 
+
+141
+
+SEDZERE
+
+GROUPEMENT DE
+MUNITION DE
+SEDZERE
+
+64 - Pyrénées-
+Atlantiques
+
+polygone délimité par les points :
+À : 000° 12’ 32" O / 43° 20° 28,7"N
+B : 000° 12° 27" O/43° 20 14"N
+C : 000° 12° 21,2" © / 43° 20' 15,5'N
+D : 000° 12’ 59,3” O / 43° 19° STN
+E : 000° 12° 13,2" O / 43° 19° 45,7"N
+F : 000° 12’ 26° © / 43° 19 51,2"N
+G : 000° 12’ 38” O / 43° 20 07,6"N
+H : 000° 12’ 46,6" O / 43° 20 24,1N
+
+Ministère des armées
+
+ 
+
+142
+
+LANNEMEZAN
+
+LANNEMEZAN
+
+65 - Hautes
+Pyrénées
+
+polygone délimité par les points :
+À: 000° 22 28" E / 43° 06 43° N
+B : 000° 22 39° E / 43° 06° 42°" N
+C : 000° 22 38° E / 43° 06° 35° N
+D: 000° 22 27"E / 43° 06 35°" N
+
+Ministère de la justice
+
+ 
+
+143
+
+PERPIGNAN
+
+PERPIGNAN
+
+66 - Pyrénées-
+Orientales
+
+polygone délimité par les points :
+
+: 002° 53 37° E / 42° 41° 41”
+: 002° 53 58" E / 42° 41° 46"
+: 002° 54° 06" E / 42° 41° 40°
+: 002° 53 57° E 7 42° 41 37°
+: 002° 53 S7°E/ 42° 41° 35"
+: 002° 53° 48"E / 42° 41 30°
+: 002° 53 37" E / 42° 41° 35"
+
+ONnMOOUXz
+ZZZZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+144
+
+ 
+
+PERPIGNAN
+
+ 
+
+PERPIGNAN
+
+ 
+
+66 - Pyrénées-
+Orientales
+
+ 
+
+polygone délimité par les points :
+002° 52° 24,27" E / 42° 40° 47,41"
+002° 52’ 15,42" E / 42° 40’ 41,90"
+002° 52° 09,17" E / 42° 40° 48,06”
+002° 52 18,44" E / 42° 40 53,17"
+
+0OwXz
+
+ZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+145
+
+SAINT LAURENT DE
+LA SALANQUE
+
+SAINT LAURENT DE
+LA SALANQUE
+
+66 - Pyrénées-
+Orientales
+
+polygone délimité par les points :
+A:002°59 48"E/ 42° 47 ST N
+B : 002° 59° 48"E/ 42° 48 O2°"N
+C : 003° 00 41" E / 42° 48’ OC" N
+D: 003° CO’ 34"E / 42° 47 2S°N
+
+Ministère des armées
+
+LF-R 73
+
+ 
+
+146
+
+DANGOLSHEIM,
+SOULTZ-LES-BAINS,
+AVOLSHEIM,
+MOLSHEIM, MUTZIG
+
+FORT DE MUTZIG
+
+67 - Bas-Rhin
+
+polygone délimité par les points :
+: 007° 26° 30" E / 48° 33 43" N
+: 007° 26° 30" E / 48° 32° 30° N
+: 007° 28 56" E / 48° 32° 30° N
+: 007° 28 56" E / 48° 33 43° N
+
+O0O0vU>x>
+
+Ministère des armées
+
+ 
+
+147
+
+HAGUENAU
+
+NEUBOURG
+
+67 — Bas-Rhin
+
+polygone délimité par les points :
+À: 007° 39 04"E / 48° 51° 28° N
+B : 007° 40 54"E/48° 51 O9"N
+C : 007° 40° 48" E / 48° 50° 48" N
+D: 007° 3907" E / 48° 50 58"N
+
+Ministère des armées
+
+ 
+
+148
+
+STRASBOURG
+
+STRASBOURG
+
+67 — Bas-Rhin
+
+DOUX
+
+polygone délimité par les points :
+
+007° 43° 55,01" E / 48° 34° 00,45"
+007° 43° 57,75" E / 48° 33° 52,11"
+007° 43 47,24" E 7 48° 33° 50,63"
+007° 43 44,69" E / 48° 33° 59,14"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+149
+
+ 
+
+ENSISHEIM
+
+ 
+
+ENSISHEIM
+
+ 
+
+68 — Haut-Rhin
+
+ 
+
+QNuMoOmEz
+
+polygone délimité par les points :
+
+: 007° 21° 01,48" E / 47° 51° 54,11
+: 007° 21 08,18" E / 47° 51 54,61"
+: 007° 21° 08.95" E / 47° 51° 53,97"
+: 007° 21° 09,49" E / 47° 51° 50,49
+007° 21° 05,49" E / 47° 51° 49,13"
+007° 21 02,52" E / 47° 51° 51,48"
+007° 21° 01,57" E/ 47° 51° 53,95"
+
+ZZZZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+polygone délimité par les points :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A:007°33 59"E/ 47° 54 28" N
+: B:007° 33° 52" E/ 47° 54 O2"N Ministère de la transition LF-P 36
+150 | FESSENHEIM FESSENHEIM 68 - Haut-Rhin C:007° 33 37"E/47°53 55" N écologique et solidaire
+D':007°3321"E/47° 54 OS'N
+E:007° 33 28"E/ 47° 54 35°" N
+polygone délimité par les points :
+À: 4° 55 46,9" E / 45° 40 50,9 N
+151 | CORBAS LYON-CORBAS 69 - Rhône B: 4° 55 59,6" E / 45° 40 50,0° N Ministère de la justice CTR BRON
+C: 4° 55 97,0"E/45° 40 A1 4'N
+D: 4° 55’ 45,8" E / 45° 40° 422" N
+polygone délimité par les points :
+A :004° 47 25"E7/ 45° 51 44" N
+POLEYMIEUX AU B : 004° 46 49°" E/ 45° 51 O7"N
+MONT-D'COR, LYON-MONT- C : 004° 46 19" E / 45° 51 O2" N
+152 LIMONEST, SAINT- VERDUN, FORT DE 69 - Rhône D: 004° 46 20"E / 45° 50° 53"N Ministère des armées
+DIDIER-AU-MONT- MONT VERDUN et E : 004° 47 10" E/ 45° 50 12° N
+D'OR, SAINT CYR AU | MONT THOUX F:004° 47 51° E/ 45° 50 25"N
+MONT D'OR G : 004° 47 51° E / 45° 50° 30° N
+H:004° 47 21"E/ 45° 50 54° N
+1: 004° 47 33°E / 45° 51 40° N
+polygone délimité par les points :
+A: 004° 43 22" E/ 45° 59° 54° N
+153 SAONE NCHE SUR Lone NCHE SUR 69 - Rhône B : 004° 43° 36°" E / 45° 59 55° N Ministère de la justice
+C: 004° 43 37" E / 45° 59° 48" N
+D: 004° 4322" E / 45° 59 45°" N
+polygone délimité par les points :
+BAUDONCOURT, A , 006° 22 42° E/ 4° 48 02" N
+B: 006° 23° 03"E/ 47° 47 25°N
+BREUCHES, SAINT- C : 006° 22 24° E / 47° 46 34" N
+154 | SAUVEUR, LA- LUXEUIL-LES-BAINS | 70 - Haute-Saône : ont cn 12 ne Ministère des armées CTR LUXEUIL
+CHAPELLE-LES- D: 006" 27 54 E AT 46 08" N
+LUXEUIL. E : 006° 19 31" E/47° 47 16" N
+F:006° 19 53"E/47° 47 S4°N
+G : 006° 20 55° E /47° 47 A4°N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+polygone délimité par les points :
+
+BROYE BROYE-LES- A: 005° 30' 46" E/ 47° 20° 58" N
+
+155 | AUBIGNEY PESMES 70 — Haute-Saône B:005° 31 03" E/47° 20 57°N Ministère des armées LF-D 75
+MONTSEUGNY C:005° 31 01" E7/47° 20° 47" N
+D : 005° 30° 46" E / 47° 20° 47"N
+
+ 
+
+SAINT-MAURICE-
+
+SUR-MOSELLE polygone délimité par les points :
+
+ 
+
+ 
+
+ 
+
+A : 006° 47° 30° E/47° 49 59" N
+156 PLANCHER-LES- SERVANCE 70 — Haute-Saône B : 006° 47 49° E/ 47° 49 46" N Ministère des armées
+MINES, HAUT-DU : © 7 Jos oo jou
+THEM - CHATEAU- C : 006° 47 42" E / 47° 49 41" N
+LAMBERT D: 006° 47 19" E 47° 49 S5'N
+polygone délimité par les points :
+À: 004° 50° 48,5" E / 46° 47 36,8°N
+B : 004° 50' 45,5" E / 46° 47° 30, 4'N
+157 [SON SUR BPIA CARNOT 71- Saône-et-Loire |  C:004° 50 49.7" E 7 46° 47 291" N Ministère des armées
+D: 004° 50° 58,2" E / 46° 47 30,5" N
+E : 004° 50 55,8" E/ 46° 47 371"N
+F : 004° 50 51,2" E / 46° 47 36,3" N
+polygone délimité par les points :
+: 004° 51 54,5" E / 46° 48° 53,7"
+: 004° 52° 20,0” E / 46° 49° 13,4”
+158 | CRISSEY BPIA MORETEAU 71 - Saône-et-Loire ©0047 82 18,67 E 467 49 14.0 Ministère des armées
+
+: 004° 52 10,9" E / 46° 49° 08,7"
+: 004° 51° 52,0" E / 46° 49° 10,0"
+: 004° 51° 50,6" E / 46° 49° 02,5°
+: 004° 51° 52,6 E / 46° 48° 54,4"
+
+OnMmOOmxr>
+ZZZZZZZ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+159
+
+GERGY
+
+BPIA CIEP
+
+71 - Saône-et-Loire
+
+polygone délimité par les points :
+
+A: 004° 55 59,5" E7/ 46° 52° 25,2" N
+B : 004° 55 464" E7/ 46° 52" 121"N
+C : 004° 55 44,6" E / 46° 52° OO,O"N
+
+D : 004° 5552" E / 46° 52 00,2" N
+E : 004° 56 11"E / 46° 52° 153" N
+
+F: 004° 56 17,6" E/ 46° 52° 222" N
+
+Ministère des armées
+
+ 
+
+160
+
+VARENNES-LE-
+GRAND
+
+VARENNES-LE-
+GRAND
+
+71 — Saône-et-Loire
+
+Dour
+
+polygone délimité par les points :
+004° 50’ 13,10" E / 46° 41 51,30"
+004° 50° 03,61" E / 46° 41° 53,07"
+004° 50° 06,43" E 7 46° 42’ 00,23"
+004° 50° 15,97" E 7 46° 41 58,48"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+161
+
+LES CROISETTES
+
+LE MANS-LES
+CROISETTES
+
+72 - Sarthe
+
+DOUX
+
+polygone délimité par les points :
+000° 13° 09,37" E / 48° 02’ 41,37"
+000° 13 10,76" E / 48° 02’ 34,71"
+000° 13' 00,88" E / 48° 02 34,11"
+000° 13 00,10" E 7 48° 02’ 40,96"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+162
+
+AITON
+
+AITON
+
+73 - Savoie
+
+0Ouzr
+
+polygone délimité par les points :
+006° 13 47,16" E / 45° 33° 55,56"
+006° 13° 54,94" E / 45° 33° 59,72"
+006° 14° 01,24" E / 45° 33 53,92"
+006° 13 53,44" E / 45° 33' 49,73"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+163
+
+ 
+
+PARIS 14e
+
+ 
+
+LA SANTE
+
+ 
+
+75 - Paris
+
+ 
+
+polygone délimité par les points :
+A: 002° 20' 29" E / 48° 50° O4" N
+B : 002° 20 28" E / 48° 49° 59° N
+C : 002° 20 17°E/48° 50'OT'N
+D : 002° 20 17" E/ 48° 50 O4’N
+
+ 
+
+Ministère de la justice
+
+ 
+
+LF-P 23
+
+ 
+
+ 
+ 
+
+164
+
+PARIS 15e
+
+BALARD
+
+75 - Paris
+
+polygone délimité par les points :
+: 002° 16 27° E/ 48° 50° 13"
+: 002° 16 25" E / 48° 50° 07"
+: 002° 16° 39" E / 48° 50° 04”
+: 002° 16° 38" E / 48° 50° 03"
+: 002° 16 51° E/ 48° 49 56"
+: 002° 16° 58° E / 48° 50° 01”
+: 002° 16’ 55° E / 48° 50° 03”
+: 002° 16’ 57" E / 48° 50° 05"
+: 002° 16’ 48" E / 48° 50° 08”
+: 002° 16’ 47" E / 48° 50° 06"
+: 002° 16° 40" E / 48° 50° 08"
+: 002° 16 41° E / 48° 50 10°
+
+FAC-IONMOOWXx
+ZZZZZZzZZZzZzZzZz
+
+Ministère des armées
+
+LF-R 275
+CTR PARIS
+
+ 
+
+165
+
+PARIS 20e
+
+TOURELLES
+
+75 - Paris
+
+polygone délimité par les points :
+:002° 24 21" E 7 48° 52 30"
+:002° 24 27" E/ 48° 52 31
+:002° 24 27" E 7 48° 52 33"
+: 002° 24 33" E / 48° 52° 35"
+: 002° 24 35° E / 48° 52° 30"
+: 002° 24 38° E / 48° 52 27°
+: 002° 24° 39° E / 48° 52° 25"
+: 002° 24 32" E / 48° 52° 23"
+: 002° 24° 27" E / 48° 52° 24°
+: 002° 24 23" E/ 48° 52° 22"
+:002° 24 21" E / 48° 52 22"
+L':002° 24 18" E/48°52 25°
+
+Ac—IONMOOwx>
+
+ZZZZZZzZZZzZzZzZz
+
+Ministère des armées
+
+LF-P 23
+
+ 
+
+166
+
+PALUEL
+
+PALUEL
+
+76 - Seine-Maritime
+
+polygone délimité par les points :
+À: 000° 37 41"E/ 49° 51 48° N
+B : 000° 38° 42"E/49° 51 31" N
+C : 000° 38 18" E/49° 51 11" N
+D: 000° 37 32" E 7 49° 51 12°N
+E:000° 37 21" E/49° 51 35"N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 32
+
+ 
+
+ 
+
+167
+
+ 
+
+PETIT-CAUX
+
+ 
+
+PENLY
+
+ 
+
+76 - Seine-Maritime
+
+ 
+
+polygone délimité par les points :
+:001° 12 50" E / 49° 58° 56° N
+:001° 13 12" E / 49° 58 43"
+:001° 12° 41" E 7 49° 58 24"
+:001° 12 21" E/ 49° 58 25"
+:001° 12 10" E / 49° 58 50"
+
+mOoOOwu>z>
+
+N
+N
+N
+N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-P 33
+
+ 
+
+ 
+ 
+
+168
+
+ROUEN
+
+ROUEN
+
+76 — Seine-Maritime
+
+QTImOOmz
+
+polygone délimité par les points :
+
+001° 04’ 40,80" E / 49° 26° 00,67"
+001° 04 42,15" E / 49° 25° 58,13"
+001° 04' 40,99" E / 49° 25° 56,31"
+001° 04 30,71" E / 49° 25° 55,38"
+001° 04° 32,37" E / 49° 26° 01,28"
+001° 04 33,07" E / 49° 26° 02,06"
+001° 04’ 35,56" E / 49° 26 03,18"
+
+ZZZZZZZ
+
+Ministère de la justice
+
+ 
+
+169
+
+SAINT-AUBIN-
+ROUTOT
+
+LE HAVRE
+
+76 - Seine-Maritime
+
+polygone délimité par les points :
+À: 000° 16° 53,7" E / 49° 31° 07,5"
+B: 000° 17 07,2" E / 49° 31 08,7"
+C: 000° 17 09,3" E / 49° 30° 59,8"
+D: 000° 16° 55,5" E / 49° 30' 58,7"
+
+Ministère de la justice
+
+CTR DEAUVILLE
+
+ 
+
+170
+
+CHAUCONIN-
+NEUFMOUTIERS
+
+MEAUX
+
+77 — Seine-et-Marne
+
+polygone délimité par les points :
+À: 002° 51 50,1" E / 48° 57 46,0"
+B: 002° 52° C2,2" E / 48° 57 46,0"
+C: 002° 52° 02,3" E / 48° 57 37,9"
+D: 002° 51° 49,9" E / 48° 57° 37,9"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+171
+
+REAU
+
+REAU
+
+77 — Seine-et-Marne
+
+polygone délimité par les points :
+À: 002° 35° 16,5" E / 48° 36° 06,5"
+B: 002° 35° 24,1" E / 48° 36 13,5"
+C: 002° 35° 34,7" E / 48° 36° 10,5"
+D: 002° 35° 35,7" E / 48° 36 04,7”
+E: 002° 35° 25,2" E / 48° 36 59,1”
+
+ZZZZZ
+
+Ministère de la justice
+
+CTR MELUN
+
+ 
+
+ 
+
+172
+
+ 
+
+SEINE-PORT,
+BOISSISE-LA-
+BERTRAND
+
+ 
+
+SAINTE-ASSISE
+
+ 
+
+77 — Seine-et-Marne
+
+ 
+
+polygone délimité par les points :
+: 002° 34 28" E / 48° 33 11"
+: 002° 34 58" E / 48° 33° 00"
+: 002° 34 55° E / 48° 32° 48"
+: 002° 35° 30° E / 48° 32° 54"
+: 002° 35° 27° E / 48° 32° 34"
+: 002° 33° 59" E / 48° 32° 30"
+: 002° 35 47° E / 48° 32 47°
+
+DNnMOOmxr>
+ZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR MELUN
+
+ 
+
+ 
+ 
+
+173
+
+VARENNES-SUR-
+SEINE
+
+CSLSEA
+
+77 - Seine-et-Marne
+
+polygone délimité par les points :
+: 002° 56° 53,9" E / 48° 22° 33,6"
+: 002° 56° 53,8" E / 48° 22° 32,2"
+: 002° 56° 49,7" E / 48° 22 31,5"
+: 002° 56 50,1” E / 48° 22 25,4”
+: 002° 57 09,3" E / 48° 22° 26,1”
+:002° 57 11,3" E / 48° 22 31,9"
+: 002° 57° 00,1” E / 48° 22° 34,2"
+
+OnmOOwx>
+
+Z£ZZZZZZ
+
+Ministère des armées
+
+ 
+
+174
+
+BOIS D'ARCY
+
+BOIS D'ARCY
+
+78- Yvelines
+
+polygone délimité par les points :
+: 002 01’ 46" E/ 48° 48 31" N
+: 002*° 01’ 56" E / 48° 4828" N
+:002° 01 56" E/ 48° 48 15°"N
+: 002° 01 39° E/ 48° 48 20°N
+
+00w>x>
+
+Ministère de la justice
+
+ 
+
+175
+
+FEUCHEROLLES
+
+FEUCHEROLLES
+
+78- Yvelines
+
+polygone délimité par les points :
+A:001°58 17" E/48°53 11°N
+B:001° 58 29" E/48°53 28"N
+C:001°58 48" E/48° 53 24" N
+D:001°58 37" EF /48°53 O8"N
+
+Ministère des armées
+
+ 
+
+176
+
+LES-ALLUETS-
+LE-ROI, ORGEVAL
+
+LES-ALLUETS-LE-
+ROI
+
+78- Yvelines
+
+polygone délimité par les points :
+:001° 55 34" E / 48° 54 33" N
+:001° 55 S7"E/ 48° 54 44"
+: 001° 56 15" E / 48° 54 30"
+:001° 595 42"E/ 48° 54 15"
+: 001° 55 28"E / 48° 54 19"
+
+MmOoOOwx
+
+N
+N
+N
+N
+
+Ministère des armées
+
+ 
+
+ 
+
+177
+
+ 
+
+POISSY
+
+ 
+
+POISSY
+
+ 
+
+78 - Yvelines
+
+ 
+
+polygone délimité par les points :
+À: 002° 02°17,3"E / 48° 55 42,8"
+B: 002° 02° 21,1"E / 48° 55 44,3"
+C: 002° 02 22,9" E / 48° 55 42,8"
+D: 002° 02° 27,1" E / 48° 55° 38,0"
+E: 002° 02’ 25,1" E / 48° 55 36,5"
+F: 002° 02° 18,6" E / 48° 55° 36,1”
+
+ZZZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+178
+
+VELIZY-
+VILLACOUBLAY,
+BIEVRES, JOUY-EN-
+JOSAS
+
+VILLACOUBLAY
+
+78 - Yvelines
+
+polygone délimité par les points :
+
+: 002° 12° 41”
+: 002° 12° 01"
+: 002° 11° 23"
+: 002° 11° 20"
+: 002° 11° 00"
+: 002° 10° 20"
+: 002° 10° 30”
+: 002° 13 21"
+
+—LTONMOOwxz
+
+E/ 48° 45 34"
+E / 48° 45° 40"
+E/ 48° 45 55"
+E / 48° 46° 09"
+E/ 48° 46 15"
+E / 48° 46 51"
+E / 48° 46 55"
+E / 48° 46 42°
+
+ZZZZZZZZ
+
+: 002° 13° 01"E / 48° 45 35°N
+
+Ministère des armées
+
+CTR Villacoublay
+
+ 
+
+179
+
+VERSAILLES
+
+VERSAILLES
+
+78 — Yvelines
+
+A1MOOUXr
+
+polygone délimité par les points :
+
+: 002° 06° 28,153"
+: 002° 06° 59,77"
+: 002° 07° 00,44"
+: 002° 06° 53,73"
+: 002° 06° 45,44"
+: 002° 06° 32,04"
+
+E/ 48° 47° 00,62"
+E/ 48° 46° 57,49"
+E/ 48° 47° 00,65"
+E/ 48° 47 02,87"
+E/ 48° 47 03,80"
+E/ 48° 47° 09,10"
+
+ZZZZZZ
+
+Ministère de l'intérieur
+
+ 
+
+ 
+
+180
+
+VERSAILLES
+
+ 
+
+VERSAILLES
+
+ 
+
+ 
+
+78 — Yvelines
+
+ 
+
+MOUOUz»
+
+polygone délimité par les points :
+: 002° 05° 23,076"
+: 002° 06 27,931"
+: 002° C6’ 38,932"
+: 002° C6’ 37,208”
+: 002° 06° 27,662"
+
+E/ 48° 46 53,767" N
+E/48°47 02114" N
+E / 48° 46 53,585" N
+E / 48° 46 51,602" N
+E / 48° 46° 51,862" N
+
+ 
+
+Ministère de l'intérieur
+
+ 
+
+ 
+
+ 
+ 
+
+181
+
+VERSAILLES
+
+SATORY
+
+78 - Yvelines
+
+polygone délimité par les points :
+À: 002° 04 58,5" E/ 48° 47 33,4" N
+B:002° 04576" E/ 48° 47 28,6"N
+C: 002° 05 23,9" E / 48° 47 26,4" N
+D: 002° C5'24,7"E / 48° 47 31,3"N
+
+Ministère des armées
+
+CTR VILLACOUBLAY
+
+ 
+
+182
+
+GOLFECH
+
+GOLFECH
+
+82 - Tarn-et-Garonne
+
+polygone délimité par les points :
+: 000° 50° 08" E / 44° 06° 57"
+: 000° 50° 54" E / 44° 06° 31”
+: 000° 51 32" E / 44° 06° 34"
+: 000° 51 25° E / 44° 05 58"
+: 000° 50° 41” E / 44° 05 57"
+: 000° 50° 16° E / 44° O6 33"
+
+1MOO0OUrz
+ZZZZZZ
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 3
+
+ 
+
+183
+
+CHATEAUDOUBLE
+
+CHATEAUDOUBLE-
+CANJUERS
+
+83 — Var
+
+polygone délimité par les points :
+: 006° 25° 58" E / 43° 38' 38° N
+: 006° 26° 41" E / 43° 38° 32" N
+: 006° 26° 40" E / 43° 3818" N
+: 006° 25' 51" E/ 43° 38° 26" N
+
+O0O0wu>xz
+
+Ministère des armées
+
+ 
+
+ 
+
+184
+
+ 
+
+CUERS
+
+ 
+
+CUERS-PIERREFEU
+
+ 
+
+83 - Var
+
+ 
+
+polygone délimité par les points :
+À: 006° 06 47"E/ 43° 15° O9 N
+B : 006° 06’ 26" E / 43° 14 56" N
+C: 006° 06 55" E/43° 14 37" N
+D: 006° O7’ 46" E / 43° 14 30°'N
+E : 006° 08’ 20°" E/ 43° 14 35°N
+F : 006° 08 23"E/43° 14 426" N
+G : 006° 07 37*E /43° 15 O7"N
+H : 006° O7 15" E/ 43° 15 O2'N
+
+ 
+
+Ministère des armées
+
+ 
+
+R64B
+
+ 
+
+ 
+ 
+
+185
+
+GEMENOS, PLAN-
+D'AUPS-SAINTE-
+BAUME, CUGES-
+LES-PINS
+
+SAINTE BAUME
+
+83 - Var
+
+polygone délimité par les points :
+: 005° 41 14° E / 43° 18° 44”
+: 005° 43' O0" E / 43° 19° 02"
+: 005° 43' 42° E / 43° 19° 03"
+: 005° 43' 43° E / 43° 19° 02"
+: 005° 43 OT" E / 43° 18° 58"
+: 005° 41 19"E / 43° 18° 40"
+
+A1MOO0OwE
+ZZZZZZ
+
+Ministère des armées
+
+ 
+
+186
+
+HYERES
+
+HYERES
+
+83 - Var
+
+polygone délimité par les points :
+: 006° 08’ 21° E / 43° 06° 08"
+: 006° 09" O0" E / 43° 06° 05”
+: 006° 09" 45" E / 43° 06° 30"
+: 006° 09° 34" E / 43° 05 21"
+: 006° 09" OC" E / 43° 05° 02"
+: 006° 08° 30" E / 43° C5 32”
+: 006° 08° 12"E / 43° 05° 43"
+
+ONnMOOmxr
+ZZZZZZZ
+
+Ministère des armées
+
+LF-P 62
+
+ 
+
+187
+
+HYERES
+
+ILE DU LEVANT
+
+83 - Var
+
+polygone délimité par les points :
+: 006° 26° 04" E / 43° 00’ 54"
+: 006° 26° 23" E / 43° 00’ 59"
+: 006° 26 27" E / 43° 01 08"
+: 006° 26° 30" E / 43° 01° 08”
+: 006° 26 31°" E / 43° 01° 19"
+: 006° 26° 42"E / 43° OT 17"
+: 006° 26° 40° E / 45° O1 30°
+: 006° 28° 32" E / 43° 02° 56"
+006° 30° 18" E / 45° 03 11°
+: 006° 30° 30" E/ 43° 03 10°
+: 006° 30° 42" E / 43° 02’ 48"
+: 006° 30° 12" E / 43° 02 29°
+: 006° 29° O5" E / 43° 02° 19"
+: 006° 28° 15" E / 43° 01° OC"
+: 006° 26° 16" E / 43° 00° 13"
+: 006° 25° 57" E / 43° 00’ 39"
+
+TOZETAC-TIONMOOUXz
+ZzZzzzZZZZZZzZZZZzZzZz
+
+Ministère des armées
+
+LF-P 63
+
+ 
+
+ 
+
+188
+
+ 
+
+LA FARLEDE
+
+ 
+
+TOULON-LA
+FARLEDE
+
+ 
+
+83 - Var
+
+ 
+
+moowx
+
+polygone délimité par les points :
+
+006° 03° 17,37" E / 43° 09’ 34,00"
+006° 03° 27,18" E / 43° 09° 36,14"
+006° 03 30,73" E / 43° 09' 29,19"
+006° 03 21,28" E / 43° 09' 26,79"
+006° 03 17,21" E/ 43° 09' 33,70"
+
+ZZZZZ
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+189
+
+LE-REVEST-LES-
+EAUX, LA VALETTE
+DU VAR, SOLLIES-
+VILLE
+
+TOURRIS
+
+83 - Var
+
+polygone délimité par les points :
+: 005° 58 49° E / 43° 1057" N
+: 005° 59° 14° E / 43° 10° 56" N
+: 005° 59° 23° E / 43° 10° O4" N
+: 005° 58° 16" E / 43° 10° O4" N
+E:005°58 22"E/45° 10 35"N
+
+00vU>xr
+
+Ministère des armées
+
+ 
+
+190
+
+SAINT-MANDRIER-
+SUR-MER
+
+SAINT MANDRIER -
+LA RENARDIERE
+
+83 - Var
+
+polygone délimité par les points :
+: 005° 54° 38" E / 43° 0514" N
+: 005° 56 32" E / 43° 0514" N
+:005° 57 23" E / 43° 04 33° N
+: 005° 56 40" E / 43° 03 56" N
+: 005° 55 08" E / 43° 04 O7" N
+: 005° 54° 35"E / 43° C4 48" N
+
+Ministère des armées
+
+LF-P 62
+
+ 
+
+191
+
+SIX-FOURS-LES-
+PLAGES
+
+SIX-FOURS
+
+83 - Var
+
+olygone délimité par les points :
+: 005° 50° 12" E / 43° 06° 17"
+: 005° 50° 25" E / 43° 06° 20"
+: 005° 50° 33" E / 43° 06° 14°
+: 005° 50° 23" E / 43° 06° OC"
+: 005° 50 12" E / 43° 05° 56"
+: 005° 50° O7"E / 43° 06° 00"
+: 005° 50° 07" E / 43° 06 10"
+
+ONnMOOW»>T| 1nMmOOUxz
+
+ZZZZZZZ
+
+Ministère des armées
+
+LF-P 62
+
+ 
+
+192
+
+TOULON
+
+HIA SAINTE-ANNE
+
+83 - Var
+
+1MOO0m>
+
+polygone délimité par les points :
+: 005° 55 56,5" E / 43° 07° 57,1"
+: 005° 55° 55,8" E / 43° 08’ 03,3"
+: 005° 55 51,2" E / 43° 08' 03,2"
+: 005° 55 43,6" E / 43° 08' 05,3"
+: 005° 55° 40,9" E / 43° 08’ 00,9"
+: 005° 55° 42,4" E / 43° 07° 58,9"
+
+Z£ZZZZZ
+
+Ministère des armées
+
+ 
+
+ 
+
+193
+
+ 
+
+TOULON,
+OLLIOULES, LA-
+SEYNE-SUR-MER
+
+ 
+
+TOULON -
+LAZARETS
+
+ 
+
+83 - Var
+
+ 
+
+polygone délimité par les points :
+: 005° 53 02" E / 43° 07° O7"
+: 005° 53 50" E / 43° 07° 33"
+: 005° 55 13" E / 43° 07° 37"
+: 005° 55° 46" E / 43° 07° 23"
+: 005° 56° 02" E / 43° 06° 45"
+: 005° 55° 36" E / 43° O5 58"
+: 005° 53° 02° E / 43° 06 07"
+
+ODNnMOOmxr>
+ZZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 62
+et
+LF-R 64
+
+ 
+
+ 
+ 
+
+194
+
+LE PONTET
+
+AVIGNON
+
+84 - Vaucluse
+
+polygone délimité par les points :
+À:004° 51 41" E/43°58 14° N
+B: 004° 51 53"E/43°58 13"N
+C:004°51 52" E/43° 58 O5" N
+D: 004° 51 40"E/ 43° 58 OS"N
+
+Ministère de la justice
+
+ 
+
+195
+
+ORANGE,
+CAMARET-SUR-
+AIGUES,
+JONQUIERES
+
+ORANGE-CARITAT
+
+84 - Vaucluse
+
+polygone délimité par les points :
+: 004° 50° 37° E / 44° 08’ 39"
+: 004° 50° 35" E / 44° 08° 17"
+: 004° 50° 53" E / 44° 07° 51"
+: 004° 51 31" E / 44° 07 52"
+: 004° 51° 45" E / 44° 07 49"
+: 004° 52° 22" E / 44° O7 29"
+: 004° 53" 07" E / 44° O7 46"
+: 004° 51 30° E / 44° 09 18”
+
+TONMOOmX
+ZZZZZZZZ
+
+Ministère des armées
+
+LF-R 55 A-E
+SCTR Orange
+
+ 
+
+196
+
+SAINT-CHRISTOL,
+SAINT-TRINIT,
+REVEST-DU-BION
+
+SAINT CHRISTOL
+
+84 - Vaucluse
+
+cercle de 1,5 km de rayon
+centré sur le point :
+005° 29° 31" E / 44° 03" 31° N
+
+Ministère des armées
+
+LF-R 11 A
+
+ 
+
+197
+
+CIVAUX
+
+CIVAUX
+
+86 - Vienne
+
+polygone délimité par les points :
+À: 000° 39° 13"E/ 46° 27° 47"N
+B : 000° 39° 49" E / 46° 26 53" N
+C : 000° 39 07" E / 46° 26° 43° N
+D: 000° 3837" E/ 46° 27 34°'N
+
+Ministère de la transition
+écologique et solidaire
+
+LF-P 2
+
+ 
+
+ 
+
+198
+
+ 
+
+VIVONNE
+
+ 
+
+POITIERS-VIVONNE
+
+ 
+
+86 - Vienne
+
+ 
+
+polygone délimité par les points :
+À: 0° 14 19,5" E / 46° 24 46,6" N
+B: 0° 14 26,4"E / 46° 24 54,3" N
+C:0° 14 37,3" E / 46° 24 49,4" N
+D: 0° 14 30,5" E /46° 24 41,8"N
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+199
+
+BOULLAY-LES-
+TROUX
+
+BOULLAY-LES-
+TROUX
+
+91 - Essonne
+
+polygone délimité par les points :
+zone 1:
+
+: 002° 02’ 08,7" E / 48° 40 20,3"
+
+: 002° 02’ 16,5" E / 48° 40° 19,7”
+
+: 002° 02’ 15,4" E / 48° 40° 14,4”
+
+: 002° 02’ 07,6” E / 48° 40 15,1”
+
+0O0UYxr
+
+zone 2:
+: 002° 02’ 35,6" E / 48° 40' 23,0"
+: 002° 02’ 42,8" E / 48° 40° 22,3"
+: 002° 02’ 39,4° E / 48° 40° 11,5"
+: 002° 02’ 37,3" E / 48° 40° 11,1”
+: 002° 02’ 37,4" E / 48° 40° 14,2"
+: 002° 02 32,6" E / 48° 40° 13,8”
+
+TMOOUxr
+
+zone 3 :
+: 002° 02° 22,7" E / 48° 39° 54,4”
+: 002° 02° 29,5" E / 48° 39° 55,0"
+: 002° 02’ 30,3" E / 48° 39 50,3"
+: 002° 02’ 22,7" E / 48° 39 50,0"
+
+0OUxr
+
+zone 4 :
+: 002° 02’ 13,0" E / 48° 39° 56,2”
+: 002° 02’ 16,2" E / 48° 39° 56,5"
+: 002° 02’ 16,6* E / 48° 39° 54,0"
+: 002° 02’ 13,3" E / 48° 39° 53,7"
+
+O0OUXr
+
+ZZZZ
+
+ZZZZ ZZZZZZ
+
+ZZZZ
+
+Ministère de l'intérieur
+
+ 
+
+200
+
+BRETIGNY-SUR-
+ORGE
+
+BRETIGNY
+
+91 - Essonne
+
+polygone délimité par les points :
+: 002° 17° 11,2"E / 48° 35° 33,3"
+: 002° 17° 18,0" E / 48° 35° 46,7"
+: 002° 17 32,7" E/ 48° 35 47,5"
+: 002° 17° 36,5" E / 48° 35° 41,7"
+: 002° 17° 30.0" E / 48° 35° 28,2"
+
+MOOUx
+
+ZZZZZ
+
+Ministère des armées
+
+LF-R 113A
+
+ 
+
+ 
+
+201
+
+ 
+
+BRUYERES-LE-
+CHATEL,
+OLLAINVILLE
+
+ 
+
+BRUYERES-LE-
+CHATEL
+
+ 
+
+91 - Essonne
+
+ 
+
+polygone délimité par les points :
+: C02° 11 50" E / 48° 35° 38"
+: 002° 11 49" E / 48° 35° 46"
+: 002° 1157" E/ 48° 35 46"
+: 002° 12 09" E / 48° 35° 50"
+: 02° 12 40" E / 48° 35° 48"
+: 002° 12° 37" E / 48° 35° 36"
+:002° 12 21" E/48°35 35°
+: 002° 1221" E/ 48° 35 32°
+
+TLONMOOUxr
+ZZZL£ZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+LF-P 21
+
+ 
+
+ 
+ 
+
+202
+
+FLEURY MEROGIS
+
+FLEURY MEROGIS
+
+91 - Essonne
+
+polygone délimité par les points :
+À: 002° 22 35" E/ 48° 38 32" N
+B : 002° 23 11" E/48°38 22"N
+C : 002° 22 32" E/ 48° 38 O3" N
+D':002° 21 57" E/48°38 23"N
+
+Ministère de la justice
+
+CTR PARIS
+R275
+
+ 
+
+203
+
+LE PLESSIS-PATE
+
+BRETIGNY-SUR-
+ORGE
+
+91 - Essonne
+
+polygone délimité par les points :
+
+RAC—IONMOOUxX
+
+: 002° 19° 47°
+: 002° 19° 31”
+: 002° 19° 21"
+: 002° 19° 13"
+: 002° 19° 13"
+: 002° 19° 39"
+: 002° 19° 39°
+: 002° 19° 46"
+
+E/48°36 26"N
+E/ 48° 36° 22°
+E/ 48° 36 16"
+E / 48° 36° 09"
+E / 48° 36 06”
+E / 48° 36° 06"
+E / 48° 36° 06
+E/48°36 10"N
+
+N
+N
+N
+N
+N
+N
+
+002° 19° 50" E / 48° 36 14" N
+
+: 002° 19 55"
+: 002° 19° 50"
+
+E/48° 36 18"N
+E/48°36 23"N
+
+Ministère des armées
+
+LF-R 113 A-C
+CTR PARIS
+
+ 
+
+204
+
+ORVEAU
+
+LA FERTE-ALAIS
+
+91 - Essonne
+
+0O0OUXxr
+
+polygone délimité par les points :
+: 002° 17° 01,7" E / 48° 26° 43,4"
+: 002° 17° 19,7" E / 48° 26 15,6"
+: 002° 17° 50,8” E / 48° 26 34,4”
+: 002° 17 49,2" E / 48° 26 44,9"
+
+ZZZZ
+
+Ministère des armées
+
+LF-R 113 A-C
+CTR PARIS
+
+ 
+
+ 
+
+205
+
+ 
+
+SACLAY, SAINT-
+AUBIN, VILLIERS-LE-
+BACLE
+
+ 
+
+SACLAY
+
+ 
+
+91 - Essonne
+
+ 
+
+polygone délimité par les points :
+
+MOOUx
+
+: 002° 08’ 14”
+: 002° 08’ 41”
+: 002° 09" 18"
+: 002° 09 32"
+: 002° 09° 02”
+
+E/48° 43 17"N
+E/48° 43 46"N
+E/48° 43 51"N
+E/ 48° 43 34" N
+E/48°43 O6"N
+
+ 
+
+Ministère de la transition
+écologique et solidaire
+
+ 
+
+LF-R 35
+
+ 
+
+ 
+ 
+
+206
+
+VERT-LE-PETIT,
+ITTEVILLE
+
+LE BOUCHET
+
+91 - Essonne
+
+polygone délimité par les points :
+
+ZErrxc-LONnMmOUOowx
+
+: 002° 22° 02" E / 48° 32° 20°
+: 002° 21° 59° E / 48° 32° 14°
+: 002° 2216" E / 48° 32° 10"
+: 002° 22° OS" E / 48° 32° 01”
+: 002° 21 57" E/48° 31 55"
+: 002° 21 29° E / 48° 32° 01
+: 002° 21 24" E / 48° 32° 04”
+:002° 21 22" E/ 48° 32 17"
+002° 21 15" E / 48° 32° 26"
+: 002° 21 10" E / 48° 32° 36"
+: 002° 21 13" E/ 48° 32 39°
+: 002° 21 18"E / 48° 32 40°
+: 002° 21 26" E / 48° 32 36°
+: 002° 21 19" E / 48° 32 26°
+
+ZZZZZ£ZZzZZZZZZ
+
+Ministère des armées
+
+ 
+
+207
+
+ASNIERES
+
+ASNIERES
+
+92 — Hauts-de-Seine
+
+MOOUxr
+
+polygone délimité par les points :
+
+: 002° 17° 29,37" E / 48° 54° 25,91"
+: 002° 17° 27,91" E / 48° 54° 26,72"
+: 002° 17° 30,74" E / 48° 54° 28,51"
+:002° 17 31,72" E7/ 48° 54 27,89"
+: 002° 17° 30,70" E / 48° 54° 26,61"
+
+ZZZZZ
+
+Ministère de l'Intérieur
+
+ 
+
+ 
+
+208
+
+ 
+
+CLAMART
+
+ 
+
+HIA PERCY
+
+ 
+
+92 - Hauts-de-Seine
+
+ 
+
+polygone délimité par les points :
+À : 002° 15° 19,3" E / 48° 48 56,2" N
+B : 002° 15° 15,5" E / 48° 48' 55,6" N
+
+C:002°15 13"E / 48° 48 55,2" N
+
+D : 002° 15 14,1" E/ 48° 48 46,5"N
+E : 002° 1528" E/ 48° 48 47"N
+
+F:002° 15 27"E7/ 48° 48 54,3"N
+
+G : 002° 15° 26,2" E/ 48° 48 55,1*N
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+209
+
+FONTENAY-AUX-
+ROSES
+
+FONTENAY-AUX-
+ROSES
+
+92 - Hauts de Seine
+
+polygone délimité par les points :
+: 002° 16° 25" E/ 48° 47° 26"
+: 002° 16 35" E/ 48° 47° 18"
+: 002° 16° 47" E / 48° 47 25"
+: 002° 16 30" E / 48° 47 32°
+: 002° 16° 34" E / 48° 47° 36"
+: 002° 16° 29" E / 48° 47 42°
+: 002° 16° 22" E / 48° 47° 39°
+
+ONMOOUXx
+ZZZZZZZ
+
+Ministère des armées
+
+LF-P 25
+
+ 
+
+210
+
+ISSY-LES-
+MOULINEAUX
+
+ISSY-LES-
+MOULINEAUX
+
+92 — Hauts-de-Seine
+
+—LONMOOUr
+
+: 002° 16° 01,70" E / 48° 48° 55,44"
+: 002° 16° 00,49" E / 48° 48° 57,50"
+: 002° 16° 01,30" E / 48° 48 58,75"
+: 002° 16" 07,31" E / 48° 48 56,91”
+: 002° 16° 08,57" E / 48° 48 57,81"
+: 002° 16° 14,15" E / 48° 48° 54,29"
+: 002° 16° 10,81" E / 48° 48 51,94"
+: 002° 16° 07,49" E / 48° 48 51,76"
+: 002° 16 03,87" E / 48° 48° 54,74"
+
+polygone délimité par les points :
+
+ZZzzZZZzZZzZZzZ
+
+Ministère de l'intérieur
+
+ 
+
+LEVALLOIS-PERRET
+
+LEVALLOIS-PERRET
+
+92 - Hauts-de-Seine
+
+ooux
+
+polygone délimité par les points :
+
+: 002° 16° 39,76" E / 48° 53° 35,67" N
+: 002° 16° 43,16" E / 48° 53 32,10" N
+: 002° 16° 40,55"E / 48° 53' 31,07" N
+: 002° 16" 37,09" E / 48° 53° 34,44"N
+
+Ministère de l'intérieur
+
+ 
+
+212
+
+NANTERRE
+
+NANTERRE
+
+92 - Hauts de Seine
+
+polygone délimité par les points :
+À: 002° 12 16" E / 48° 54 29° N
+B:002° 12°26"E/ 48° 54 23"N
+C : 002° 12 18" E/48°54 18"N
+D : 002° 12’ 08" E/ 48° 54 25°N
+
+Ministère de la justice
+
+CTR PARIS
+LF-R 275
+
+ 
+
+ 
+
+213
+
+ 
+
+ROMAINVILLE
+
+ 
+
+FORT DE NOISY
+
+ 
+
+93 - Seine Saint
+Denis
+
+ 
+
+polygone délimité par les points :
+: 002° 26° 35" E / 48° 52° 59° N
+: 002° 26 58" E / 48° 53 O7" N
+: 002° 27 11" E/ 48° 52 58" N
+: 002° 26 55" E/ 48° 52 45" N
+: 002° 26° 49° E/ 48° 52 52° N
+
+MOOUXx
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR PARIS
+LF-R 275
+
+ 
+
+ 
+ 
+
+214
+
+VILLEPINTE
+
+VILLEPINTE
+
+93 - Seine Saint
+Denis
+
+polygones délimités par les points :
+À: 002° 33 16" E / 48° 58 OS"N
+B:002° 33 24° E/48°57 58° N
+C : 002° 33 11° E/48°57 55° N
+D : 002° 33’ 08" E / 48° 58 02°N
+
+Ministère de la justice
+
+CTR PARIS
+LF-R 275
+
+ 
+
+215
+
+FRESNES
+
+FRESNES
+
+84 - Val de Marne
+
+polygone délimité par les points :
+: 002° 19 18° E/ 48° 45 58”
+: 002° 19 18" E / 48° 45 52"
+: 002° 19 25° E/ 48° 45 51”
+: 002° 19 28° E/ 48° 45 47"
+: 002° 19 25° E/ 48° 45° 42°
+: 002° 19° 14° E / 48° 45 43"
+: 002° 19° 13° E / 48° 45 40°
+: 002° 19° 08" E / 48° 45° 40"
+: 002° 19° 11° E / 48° 45° 59° N
+
+—IONMOOWUxr
+ZZZZZZZZ
+
+Ministère de la justice
+
+CTR PARIS
+LF-R 275
+
+ 
+
+ 
+
+216
+
+ 
+
+LIMEIL-BREVANNES
+
+ 
+
+SODERN
+
+ 
+
+94 - Val-de-Marne
+
+ 
+
+polygone délimité par les points :
+A: 002° 29" 07° E / 48° 44'30,7"N
+B: 002° 29'17,5"E/48° 44 81,1" N
+C : 002° 29'17,6" E/ 48° 44 30,3" N
+D : 002° 29' 13,8° E / 48° 44" 30" N
+E : 002° 29' 14,6" E / 48° 44'25°N
+F : 002° 29' 05,1" E / 48° 44261" N
+G : 002° 29' 05,9" E / 48° 44' 28,8" N
+
+ 
+
+Ministère des armées
+
+ 
+
+Paris Orly
+AD 2 LFPO APP 01
+
+ 
+
+ 
+ 
+
+217
+
+SAINT-MANDE
+
+HIA BEGIN
+
+84 - Val de Marne
+
+polygone délimité par les points :
+À: 002° 25 37" E / 48° 50 44° N
+B : 002° 25 42" E / 48° 50° 42,6" N
+C:002°25 39,7" E / 48° 50° 32" N
+D : 002° 25° 31,6" EF / 48° 50 32,6"N
+E : 002° 25° 30,9" E / 48° 50° 30,7" N
+F:002° 25 28"E / 48° 50° 31,6" N
+G : 002° 25 23,8" E/ 48° 50 36,3" N
+H : 002° 25° 29,6" E / 48° 50° 35,8"N
+1: 002° 25° 31,3" E / 48° 50 Ad N
+
+Ministère des armées
+
+ 
+
+218
+
+OSNY
+
+OSNY
+
+95 - Val d'Oise
+
+polygone délimité par les points :
+À: 002° 05’ 44" E/ 49° 04 12° N
+B: 002° 05 38" E/ 49° O4 O6" N
+C : 002° O5 29" E / 49° O4 10° N
+D : 002° 0536" E/ 49° C4 16"N
+
+Ministère de la justice
+
+CTR PONTOISE
+
+ 
+
+219
+
+PONTOISE
+
+PONTOISE
+
+95 — Val d'Oise
+
+polygone délimité par les points :
+
+: 002° 05° 05,35" E / 49° 02° 10,40"
+: 002° 05 13,73" E / 49° 02 17,11
+: 002° 05° 21,62" E / 49° 02’ 13,16”
+: 002° 05’ 14,65" E / 49° 02’ 05,84”
+
+O0O0OUXr
+ZZZZ
+
+Ministère de l'intérieur
+
+ 
+
+ 
+
+220
+
+ 
+
+TAVERNY,
+BESSANCOURT
+
+ 
+
+TAVERNY
+
+ 
+
+95 - Val d'Oise
+
+ 
+
+polygone délimité par les points :
+: 002° 13 09" E / 49° 07 10"
+: 002° 1320" E / 49° 02 13"
+: 002° 13 34" E / 49° O2 09”
+: 002° 1355" E / 49° O2 07"
+: 002° 14 01° E / 49° O1 57°
+: 002° 13 OS" E / 49° 01 52°
+
+AIMOOWUYxr
+ZZZZZZ
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR PARIS
+LF-R 275
+
+ 
+
+ 
+ 
+
+221
+
+BAIE-MAHAUT
+
+BAIE-MAHAUT
+
+971 - Guadeloupe
+
+polygone délimité par les points :
+
+061° 34° 23,97° O / 16° 15’ 54,52"
+061° 34° 16,92" © / 16° 15 55,65"
+061° 34 17,82" O / 16° 15 46,81”
+061° 34 24,86" © / 16° 15 47,69"
+
+ZZZZ
+
+Ministère de la justice
+
+ 
+
+ 
+
+222
+
+DUCOS
+
+ 
+
+ 
+
+DUCOS
+
+ 
+
+972 - Martinique
+
+ 
+
+polygone délimité par les points :
+
+: 060° 59° 32,27" O / 14° 34° 39,97"
+: 060° 59° 25,21" O / 14° 34° 37,69"
+: 060° 59° 23,56" © / 14° 34° 31,85"
+: 060° 59° 27,54" © / 14° 34° 30,74"
+: 060° 59° 34,62" O / 14° 34° 32,98"
+
+ 
+
+Ministère de la justice
+
+ 
+
+ 
+
+ 
+ 
+
+223
+
+KOUROU,
+SINNAMARY,
+MACOURIA
+
+CSG KOUROU
+
+973 - Guyane
+
+polygones délimités par les points :
+
+CSG 1
+
+OU>x>
+
+D: 052° 40° 32" O / 05° 09° 19°
+
+E : 052° 47° 12" O/ 05° O5 20°
+
+F : 052° 55° 52" © / 05° 10° 23°
+
+G : 052° 55° 43" O / 05° 20° 24"
+
+H : 052° 51 40" O0 / 05° 24 03”
+CSG2
+
+À: 052° 38° 33° © / 05° 07 07°
+B : 092° 38° 01” O/ 05° 05 47°
+
+C : 052° 38° 43" O/ 05° 05° 31”
+D : 052° 39' 15° O/ 05° 06° 56”
+CETS
+
+À : 052° 42° 19" © / 05° 10° 14°
+B: 052° 41 48° O /05° 10° 14°
+C: 052° 41 43" O 7 05° 09° 53"
+D: 052° 41' 58" O / 05° 09° 40°
+E: 052° 42 17° O/05° 09' 42"
+
+: 052° 38° 15" © / 05° 11° 19°
+: 052° 38° 55" O / 05° 10° 43°
+: 052° 39° 52° O / 05° 10° 48°
+
+Zzzzz ZZZZ ZZZZZZZZ
+
+Ministère des armées
+et
+ministère de l'enseignement
+supérieur, de la recherche et
+de linnovation
+
+SO-P 3
+SO-R 1 lors de DPSA
+
+ 
+
+224
+
+REMIRE-MONTJOLY
+
+REMIRE-MONTJOLY
+
+973 - Guyane
+
+polygone délimité par les points :
+
+À :052° 17° 45" O / 04° 52° 38"
+B : 052° 17° 41" O/ 04° 52 30°
+C : 052° 18° 00" O / 04° 52° 17"
+D : 052° 18' 04" O / 04° 52° 26°
+
+N
+N
+N
+N
+
+Ministère de la justice
+
+ 
+
+ 
+
+225
+
+ 
+
+ROURA
+
+ 
+
+MONTAGNE DES
+SERPENTS
+
+ 
+
+973 - Guyane
+
+ 
+
+TONMOOUXz
+
+polygone délimité par les points :
+
+: 052° 23° 26,63"
+: 052° 23" 33,33"
+: 052° 21° 30,83"
+: 052° 21° 16,10"
+: 052° 21 47,23"
+: 052° 21 47,23
+: 052° 22° 31,96"
+: 052° 23 08,03"
+
+© / 04° 42° 12,75"N
+© / 04° 43° 13,41N
+© / 04° 42’ 48,08"N
+© / 04° 42 14,61°N
+© / 04° 41 38,73"N
+© / 04° 41° 10,94"N
+© / 04° 41 09,32°N
+© / 04° 41 10,2TN
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+226
+
+BOURG-MURAT
+- LE TAMPON
+
+PLAINE DES
+CAFRES
+
+974 — La Réunion
+
+polygone délimité par les points :
+
+: 055° 34 10,21"E/21° 11° 49,16" S
+: 055° 34 10,17"E/21° 11° 44,23"S
+: 055° 34° 07,65" E/ 21° 11 39,11"S
+: 055° 34’ 05,94" E/ 21° 11 36,19"S
+: 055° 34 01,83*"E/21° 11° 34,37°S
+:055° 33 56,14°E/21° 11 36,57°S
+: 055° 33° 50,73" E / 21° 11° 42,94"S
+: 055° 33' 53,91" E/ 21° 11 50,25"S
+055° 33° 58,50" E / 21° 11° 52,04° S
+
+LILONMOOUr>
+
+Ministère des armées
+
+ 
+
+227
+
+LE PORT
+
+DARSE-FOUCQUE
+
+974 — La Réunion
+
+polygone délimité par les points :
+A:055°17 11" E/20°55 56"S
+B:055°17 23" E/20° 5558" S
+C:055°17 22" E/20°56 04" S
+D:055°17 11°"E/20°56  02"S
+
+Ministère des armées
+
+ 
+
+228
+
+SAINT-DENIS-DE-LA-
+REUNION
+
+SAINT-DENIS-DE-LA-
+REUNION
+
+974 — La Réunion
+
+polygone délimité par les points :
+: 055° 30° 19,49" E / 20° 55° 06,40"
+: 055° 30° 20,80" E / 20° 55° 13,05"
+: 055° 30° 13,62" E / 20° 55 14,24"
+: 055° 30° 11,82" E/ 20° 55 07,15"
+
+o0owxz
+an OO
+
+Ministère de la justice
+
+ 
+
+229
+
+SAINT-DENIS
+
+CASERNE-LAMBERT
+
+974 — La Réunion
+
+polygone délimité par les points :
+À: 055° 26° 21,5" E/20° 52 42° S
+B : 055° 26 322" E/ 20° 52 40°S
+C:055° 26 33" E/20° 52 44" 8
+D:065°26 22" E / 20° 52° 46"S
+
+Ministère des armées
+
+CTR LA REUNION
+ROLAND GARROS
+
+ 
+
+ 
+
+230
+
+ 
+
+SAINTE-MARIE
+
+ 
+
+RIVIERE-DES-
+PLUIES
+
+ 
+
+974 — La Réunion
+
+ 
+
+polygone délimité par les points :
+A: 055° 30° 59,6" E / 20° 54° 41,3" S
+B:055° 31° 03" E/20° 54 41,3" S
+C:055° 31 03°E/20°54 43°S
+D: 055° 31° 02*E / 20° 54 44" S
+E:055° 31° 01*E/20° 54 43,5" S
+F : 055° 31° 00,6" E / 20° 54° 44,3" S
+G:055° 30° 59,7" E /20° 54° 43,6" S
+
+ 
+
+Ministère des armées
+
+ 
+
+CTR LA REUNION
+ROLAND GARROS
+
+ 
+
+ 
+ 
+
+231
+
+SAINTE-MARIE
+
+DA 181
+ROLAND-GARROS
+
+974 — La Réunion
+
+polygone délimité par les points :
+: 055° 30 17" E/ 20° 53 13"
+: 055° 30 34" E/ 20° 53 19"
+: 055° 30° 28° E / 20° 53 29"
+: 055° 30° 30° E / 20° 53 30°
+: 055° 30° 30° E/ 20° 53 32"
+: 055° 30° 29° E / 20° 53 36"
+: 055° 30° 22" E /20° 53° 35"
+
+OnMOOwUxz
+OO EU
+
+Ministère des armées
+
+CTR LA REUNION
+ROLAND GARROS
+
+ 
+
+232
+
+SAINTE-SUZANNE
+
+BEL-AIR
+
+974 — La Réunion
+
+polygone délimité par les points :
+
+A :055° 3515" E/20° 54 30"S
+
+B:055° 34 55" E/20° 54 29" S
+
+C:055° 34 54" E/20°54 41"S
+D : 055° 35° 10,7" E / 20° 54° 44"S
+
+Ministère des armées
+
+CTR LA REUNION
+ROLAND GARROS
+
+ 
+
+233
+
+DZAOUDZI
+
+DZAOUDZI-
+LABATTOIR
+
+976 - Mayotte
+
+polygone délimité par les points :
+A: 045° 16 46" E/12° 46 17°S
+B:045° 16 56° E/12° 46 16°S
+C:045° 16 57°E/12°46 22'S
+D: 045° 16° 49°E / 12° 46° 24° S
+
+Ministère des armées
+
+ 
+
+234
+
+DZAOUDZI
+
+LES BADAMIERS
+
+976 - Mayotte
+
+polygone délimité par les points :
+
+: 045° 16 40,40" E j 12° 46° 09,80"
+: 045° 16 42,00" E j 12° 46° 11,00"
+: 045° 16° 43,60" E / 12° 46° 10,70"
+: 045° 16 44,90" E 7 12° 46° 11,70"
+: 045° 16° 42,90" E j 12° 46° 14,10”
+: 045° 16° 39,20" E / 12° 46° 11,20"
+
+NnMOOUE»
+
+OU OU W A
+
+Ministère des armées
+
+FM R1
+Proximité aéroport DZAOUDZI
+
+ 
+
+235
+
+DZAOUDZI
+
+BASE NAVALE
+MAYOTTE
+
+976 - Mayotte
+
+polygone délimité par les points :
+: 045° 15 20° E/12° 46 53°S
+: 045° 15 20" E/ 12° 46 55"
+: 045° 15 19° E / 12° 46 55"
+: 045° 15 18"E / 12° 46 55"
+: 045° 15' 18" E / 12° 46° 53"
+
+MUOUz
+
+S
+S
+S
+S
+
+Ministère des armées
+
+Proximité aéroport DZAOUDZI
+
+ 
+
+ 
+
+236
+
+ 
+
+ARUE
+
+ 
+
+LCL BROCHE
+
+ 
+
+987 - Polynésie
+française
+
+ 
+
+polygone défini par les points :
+À: 149° 32° 06" O0 /17° 31 344°S
+B:149°3201,7"0/17°31 345
+C:149°31 488"0/17°31 405 S
+D:149°31 47,8"0/17°31 45,7"S
+E:149°32 03,1" O/17° 31 45,6" S
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+237
+
+DOMAINE PUBLIC
+DE L'ETAT
+
+ATOLLS DE
+MURUROA ET
+FANGATAUFA
+
+987 - Polynésie
+française
+
+Atolls et eaux territoriales incluses
+
+Ministère des armées
+
+ 
+
+238
+
+MAHINA
+
+STATION MAHINA
+
+987- Polynésie
+française
+
+polygone délimité par les points :
+: 149° 29° 04,5" O / 17° 30° 25,8"
+: 149° 28° 56,2* O 1 17° 30° 27,2"
+: 149° 28° 49,4” © / 17° 30° 26,2"
+: 149° 28° 47,9° © / 17° 30° 20,8
+: 149° 28° 50,6" O / 17° 30° 21,0"
+: 149° 28° 50,8" © / 17° 30° 17,8"
+: 149° 28 42,7" © / 17° 30° 08,9"
+: 149° 28° 46,5" © / 17° 30° 02,3"
+: 149° 28 48,3" O0 / 17° 30 02,9"
+. 149° 28° 51,8" © /17° 30 09,8"
+
+e—TONnMOOmx»
+OP UounUUu
+
+Ministère des armées
+
+ 
+
+239
+
+MAHINA
+
+STATION
+MAHINARAMA
+
+987- Polynésie
+française
+
+polygone délimité par les points :
+: 149° 28° 55,9" O0 / 17° 32° 05,2"
+: 149°28' 55,5" 0 /17°32 01,5"
+: 149° 28 51,1" O / 17° 32° 00,4*
+: 149° 28° 50,8" © / 17° 32° 02,4*
+: 149° 28° 48,4" O {17° 32° 00,6"
+: 149° 28° 47,8* O 4 17° 31° 58,0"
+: 149° 28 45,5° O/17°31 58,1"
+: 149° 28 43,40 /17° 32 00,5
+: 149° 28 39,6" O / 17° 31 59,5"
+. 149° 28° 48,3" © {17° 32° 12,3"
+
+c—TOoOnmMmOoOowux
+DV NnVVONOUU
+
+Ministère des armées
+
+ 
+
+240
+
+PAPEARI
+
+PAPEARID
+
+987- Polynésie
+française
+
+polygone défini par les points :
+
+À :149° 2027" O/17° 43 595"S
+B : 149° 20° 39,5" O / 17° 43 59° S
+€ : 149° 20 41"O/17° 43 56" S
+D : 149° 20° 40°0/17° 43 54° S
+
+Ministère des armées
+
+ 
+
+ 
+
+241
+
+ 
+
+PAPEARI
+
+ 
+
+PAPEARIC
+
+ 
+
+987- Polynésie
+française
+
+ 
+
+polygone défini par les points :
+
+À : 149° 20° 28,6" O / 17° 44 06,6" S
+B : 149° 20 27,1" O/17° 44 09,2" S
+C:148°20 30,5" 0/17° 44 1175
+D: 149° 20° 32,2" 0/17° 44 08,7"S
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+ 
+
+242
+
+PAPEETE-FARE UTE
+
+BASE NAVALE
+
+987- Polynésie
+française
+
+AIMOUOWxX
+
+polygone délimité par les points :
+
+: 149° 34° 13,71
+: 149° 34 11,98
+: 149° 34° 10,33
+: 149° 34° 08,68
+: 149° 34° 07,20
+: 149° 34° 12,30
+
+"0Q7/17° 32 00,43"S
+"0/17° 31 57,125
+"07/1731 57,51"S
+"0 /17° 31 58,63"S
+" O/17° 32 02,88"S
+"O/17° 32 04,46"S
+
+Ministère des armées
+
+ 
+
+243
+
+BOURAIL
+
+NANDAÏ
+
+988 - Nouvelle-
+Calédonie
+
+polygone délimité par les points :
+:165° 27 33" E/21° 30 31" S
+:165° 27 35" E/21° 30 24" S
+:165° 27 29°" E/21° 30° 09" S
+:165° 27 26" E/21°30 10" S
+:165°27 22" E/21° 30° 21"S
+:165° 27 26"E/21° 30 29" S
+:165° 27 382"E/21° 30 32" S
+
+ONMOGTXr
+
+Ministère des armées
+
+ 
+
+244
+
+NOUMEA
+
+ALLEYRON
+
+988 - Nouvelle-
+Calédonie
+
+polygone délimité par les points :
+A:166°25 57"E/22° 16 58"S
+B : 166° 25 59°" E/ 22° 16 58" S
+C:166° 26 01" E/22° 17 01" S
+D:166°25 58" E/22°17 02" S
+
+Ministère des armées
+
+ 
+
+245
+
+NOUMEA
+
+CHALEIX
+
+988 - Nouvelle-
+Calédonie
+
+polygone délimité par les points :
+:166° 25 29" E/22° 17° 16"
+: 166° 25 34" E/22° 17 15"
+:166° 25" 43" E/22° 17 22"
+: 166° 26 08" EF /22° 17 28"
+: 166° 26 10" E/ 22° 17° 34"
+: 166° 26 03°" E / 22° 17° 42"
+:166° 25 40°E/22° 17° 37"
+:166° 25 34" E/22°17 33"S
+:166° 25 28"E/22°17 17 S
+
+—LONMOOUXz
+GE OO En On O D
+
+Ministère des armées
+
+ 
+
+246
+
+NOUMEA
+
+OUEN TORO
+
+988 - Nouvelle-
+Calédonie
+
+polygone délimité par les points :
+A:166°27 17"E/22°18 15"S
+B:166°27 22"E/22° 18 23"S
+C:166°27 17°E/22°18 28" S
+D:166°27 15"E/22°18 28"S
+E:166°27 11" E/22° 18 18"S
+
+Ministère des armées
+
+ 
+
+ 
+
+247
+
+ 
+
+PAÏÎTA
+
+ 
+
+TONTOUTA
+
+ 
+
+988 - Nouvelle-
+Calédonie
+
+ 
+
+polygone délimité par les points :
+:166° 12’ 46" E/ 22° 00° 59° S
+:166° 1232" E/22° 01 26° S
+:166° 12° 51° E/22° 01 36° S
+:166° 13 05*E/22°01 11°S
+
+0OU>X>
+
+ 
+
+Ministère des armées
+
+ 
+
+ 
+
+ 
+
