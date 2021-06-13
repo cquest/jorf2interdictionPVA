@@ -1,13 +1,14 @@
 import re
 import sys
 
-ocr = open(sys.argv[1], 'r')
+ocr = open(sys.argv[1], mode='r', encoding='utf-8')
+last = None
 ok = 0
 ok2 = 0
 
 for ligne in ocr:
     l = re.sub('\n', '', ligne)
-    if re.match('olygone', l):
+    if re.match('olygone', l) or re.match('o/ygone', l):
         last = '@'
     if re.search('[0-9].* [0-9].* [0-9]', l) or re.search('[0-9]°[0-9]', l):
         # substitution globales
@@ -26,7 +27,7 @@ for ligne in ocr:
         l = re.sub('(^[A-Z]?\'?)\.','\g<1>:',l)
         l = re.sub('(^[A-Z]?\'?:)([^ ])','\g<1> \g<2>',l)
         l = re.sub('(^[0-9]{1,3}°)',': \g<1>',l)
-        if l[0]==':':
+        if l[0]==':' and last != None:
             l = chr(ord(last[0])+1) + l
 
         l = re.sub('(^[A-Z]?\'?: [0-9]{1,3})[^°]? ','\g<1>° ',l)
