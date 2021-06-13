@@ -26,9 +26,9 @@ Fichier geojson final, généré par:
 
 `bash jorf2txt.sh <lefichierpdf>`
 
-Ce script utilise imagemagick pour convertir le PDF en pages uniques après cropping.
+Ce script utilise [imagemagick](https://imagemagick.org) pour convertir le PDF en pages uniques après cropping.
 
-Tesseract est ensuite utilisé pour en extraire le texte.
+[Tesseract](https://tesseract-ocr.github.io/) est ensuite utilisé pour en extraire le texte.
 
 ## Nettoyage automatique du texte
 
@@ -36,7 +36,7 @@ Tesseract est ensuite utilisé pour en extraire le texte.
 
 Ce script python, détecte les lignes contenant des coordonnées géographiques et tente de les remettre sous une forme homogène cohérente.
 
-Les lignes ne pouvant être remise en cohérence dans leur intégralité sont précédées un "ERR", celles remise en cohérence sont modifiée et celles ne contenant pas de coordonnées géographiques sont laissées intactes.
+Les lignes ne pouvant être remises en cohérence dans leur intégralité sont précédées par "ERR", celles remise en cohérence sont modifiées et celles ne contenant pas de coordonnées géographiques sont laissées intactes.
 
 ## Nettoyage manuel du texte
 
